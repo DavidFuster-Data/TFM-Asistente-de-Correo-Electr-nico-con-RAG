@@ -1,0 +1,2742 @@
+tamano_correo,id_correo,subject,correo_original,n_mensajes,pregunta,respuesta_esperada
+corto,1989.0,Holiday Contact List - 2001,"[2001-12-21 19:54:56+00:00] sally.beck@enron.com:
+Mari:
+
+Here's the contact list Sally asked I forward to you.
+
+			 
+
+Christina Valdez
+Asst. to Sally Beck
+713.853.9106",1.0,"Who is the contact person listed in the contact list forwarded to Mari on December 21, 2001?","The contact person listed is Christina Valdez, Assistant to Sally Beck."
+corto,1793.0,CommodityLogic Contractors,"[2001-11-12 16:38:00+00:00] d..gros@enron.com:
+Sally,
+
+We have six contractors working for CL, all from Valtech.  Monthly burn rate is about $110k.
+
+Tom",1.0,"What is the monthly burn rate for the six Valtech contractors working for CL as reported by Tom Gros on November 12, 2001?","The monthly burn rate is about $110,000."
+corto,642.0,Re: Access to DPR for Fernley Dyson,"[2000-11-27 16:30:00+00:00] sally.beck@enron.com:
+Can you coordinate the Scott Tholen's team to do this ASAP?  Thanks.  Keep me 
+updated on when Fernley will have access.  Thanks.",1.0,Who should be coordinated to perform the task and who needs to provide updates regarding Fernley's access?,"Scott Tholen's team should be coordinated to perform the task, and I need to be kept updated on when Fernley will have access."
+corto,1668.0,RE:,"[2001-10-28 21:39:11+00:00] sally.beck@enron.com:
+Yes - at 3:40 pm.  Will try to leave by 4:00 or so.  --Sally",1.0,"What is my scheduled time and planned departure for the event mentioned on October 28, 2001?",The event is at 3:40 pm and I will try to leave by 4:00 pm.
+corto,377.0,Your approval is requested,"[2000-08-22 09:03:00+00:00] sally.beck@enron.com:
+This was sent for my approval.  The manager listed below does not work in 
+Energy Operations.  This should be sent to someone else for approval.",1.0,"Why did I reject the approval request for the manager listed in the email dated August 22, 2000?",I rejected it because the manager listed does not work in Energy Operations and the request should be sent to someone else for approval.
+corto,903.0,Beth's location,"[2001-01-16 12:49:00+00:00] sally.beck@enron.com:
+Any room at the inn?  I am looking for a spot for Beth Apollo.  She will be 
+working with me, starting on January 29th in Houston.  --Sally",1.0,When is Beth Apollo starting her new role in Houston and what is the purpose of my inquiry regarding her placement?,"Beth Apollo is starting on January 29th, and I am looking for a workspace or 'room at the inn' for her to work with me."
+corto,584.0,Re: Enron Raptor I P&L Reversal,"[2000-11-14 13:45:00+00:00] shona.wilson@enron.com:
+The change to the DPR will occur on the 14th, not on the 13th as previously 
+communicated.
+
+Best regards
+
+Shona Wilson
+X39123",1.0,"When will the change to the DPR occur, according to Shona Wilson's correction?","The change to the DPR will occur on the 14th, not on the 13th as previously communicated."
+corto,161.0,Re: ETC Survey Action Planning,"[2000-04-17 16:49:00+00:00] sally.beck@enron.com:
+Kim,
+
+Sally says that Wes Colwell will be assigning ENA representative.
+
+Patti
+x39106",1.0,"Who is responsible for assigning the ENA representative according to the information Patti Thompson sent me on April 17, 2000?",Wes Colwell is the person who will be assigning the ENA representative.
+corto,173.0,Your approval is requested,"[2000-04-25 14:34:00+00:00] sally.beck@enron.com:
+Tara, 
+
+When I tried to approve this request (Sheri gave verbal approval), I got 
+message that it had already been approved by another access approver.",1.0,"What issue did I encounter when I attempted to approve the request that Sheri had already verbally approved on April 25, 2000?",I received a message stating that the request had already been approved by another access approver.
+corto,204.0,ENA SAP Controls Projects,"[2000-05-10 11:21:00+00:00] patti.thompson@enron.com:
+Fernley,
+
+Sally asked me to forward this to you to outline what she is doing with 
+Arthur Anderson to get ready for SAP, specifically, Global Products.
+
+Patti",1.0,What is the purpose of the information I asked Patti Thompson to forward to Fernley regarding my work with Arthur Andersen?,"The information outlines what I am doing with Arthur Andersen to prepare for SAP, specifically regarding Global Products."
+corto,504.0,Re: UT Super Saturday Candidates,"[2000-10-17 18:22:00+00:00] sally.beck@enron.com:
+I could go to Austin the night of Wednesday, October 25 for dinner with 
+students if you need me.  Let me know.  
+
+
+   
+	Enron North America Corp.",1.0,"What did I offer to do on the night of Wednesday, October 25?",I offered to go to Austin for dinner with students.
+corto,1231.0,Enron Announcement,"[2001-04-19 19:36:00+00:00] sally.beck@enron.com:
+I will need a rental car in Oklahoma - looks like National is the one to use.  Thanks. --Sally",1.0,Which rental car company should I use for my trip to Oklahoma?,National is the rental car company to use in Oklahoma.
+corto,1265.0,RE: TeamBuilding for CommdodityLogic,"[2001-04-24 22:52:26+00:00] sally.beck@enron.com:
+Thanks for the invitation.  I will be out of town April 25 through 27, so unfortunately I will have to miss the game.  --Sally",1.0,Why am I unable to attend the game scheduled between April 25 and April 27?,I am unable to attend the game because I will be out of town from April 25 through April 27.
+corto,455.0,Your approval is requested,"[2000-09-26 15:24:00+00:00] sally.beck@enron.com:
+This employee, and his supervisor, Bob Schorr, do not report in to me.  
+Someone else should be approving this requested access.",1.0,Why did I say I could not approve the access request involving Bob Schorr's team?,"Because that employee and his supervisor, Bob Schorr, do not report to me."
+corto,414.0,Re: Fooball game,"[2000-09-01 16:43:00+00:00] sally.beck@enron.com:
+October 20th sounds great -- we will reserve the guest room for you!",1.0,What arrangement did I confirm for October 20th regarding the guest room?,I confirmed that we will reserve the guest room for the guest.
+corto,2130.0,"FW: CAS Positions January 14, 2002 for positions as of Friday","[2002-01-14 15:03:15+00:00] shona.wilson@enron.com:
+It looks like there are quite a few gas books on this list.  Please let me know what the status of these are.
+
+Thanks",1.0,What did Shona Wilson ask me regarding the gas books on the list?,Shona asked me to provide the status of the gas books on the list.
+corto,1731.0,2nd letter,"[2001-11-01 22:44:47+00:00] sally.beck@enron.com:
+Please print on letterhead and fax to Treemont house to Eugene Vaughan.  Thanks.",1.0,What are the specific instructions I gave for the document to be sent to Eugene Vaughan at Treemont house?,I requested that the document be printed on letterhead and faxed to Eugene Vaughan at Treemont house.
+corto,873.0,Re: EGM Staff Meeting - Reminder,"[2001-01-12 22:27:00+00:00] sally.beck@enron.com:
+Cathy:  I will be working in the London office during the week of January 15, 
+so I will not be at the staff meeting on January 16.  --Sally",1.0,"Will I be attending the staff meeting on January 16, 2001?","No, I will not be attending because I will be working in the London office during the week of January 15."
+corto,320.0,RE: Mtg. on Wed. July 26th.,"[2000-07-24 16:36:00+00:00] patti.thompson@enron.com:
+Brenda,
+
+Per my earlier email, Sally will be out of the office Wed-Fri of this week, 
+so she will be unable to attend.
+
+PT",1.0,"What is my availability for the remainder of the week of July 24, 2000?",I will be out of the office from Wednesday to Friday and will be unable to attend meetings.
+corto,655.0,Re: Beck/Sally 13Dec ENR-1081 Itinerary,"[2000-11-28 18:44:00+00:00] sally.beck@enron.com:
+Flight times are good.  Please insure that my hotel reservation is for a 
+non-smoking room.  Thanks.  --Sally",1.0,What did I request regarding my hotel room reservation?,I requested that my hotel reservation be for a non-smoking room.
+corto,205.0,Re: How About Lunch?,"[2000-05-10 13:25:00+00:00] patti.thompson@enron.com:
+Ted,
+
+I checked with Sally and she says Wednesday, May 31 is good for lunch & she 
+looks forward to seeing you.
+
+Patti",1.0,"Is Wednesday, May 31, a suitable date for me to have lunch with Ted?","Yes, I confirmed that Wednesday, May 31, is a good date for lunch and I look forward to seeing him."
+corto,1169.0,"Re: ""Best Dressed"" Luncheon at Niemans - Apr.12","[2001-04-06 15:33:00+00:00] sally.beck@enron.com:
+I was really looking for the list of attendees to see we wanted to share 
+rides to Neiman's.  Can you get that list form Vanessa?  Thanks.",1.0,Who should I contact to obtain the list of attendees for the ride-sharing arrangement to Neiman's?,I should get the list from Vanessa.
+corto,1469.0,Brenda,"[2001-06-06 19:52:41+00:00] beth.apollo@enron.com:
+Know you are busy this week
+
+just wondering how it went with Brenda.  Should I expect to hear from her today?
+
+B",1.0,"Who was I supposed to meet with, according to Beth Apollo's inquiry on June 6, 2001?",I was supposed to meet with Brenda.
+corto,1965.0,Summary,"[2001-12-18 01:28:36+00:00] marla.barnard@enron.com:
+Attached is the summary.  There are still a few names we need to check with Bob Hall and Jenny, but it is very, very close.",1.0,What names still need to be checked according to Marla Barnard's summary?,A few names still need to be checked with Bob Hall and Jenny.
+corto,190.0,"Re: Do you know how long Stephen Schwarz has been with Enron -
+ roughly?","[2000-05-08 11:12:00+00:00] sally.beck@enron.com:
+Stephen joined Enron on January 29, 1996.  Is there any other info that you 
+need?  
+
+Are you still planning to be in Houston next week? --Sally",1.0,On what date did Stephen join Enron?,"Stephen joined Enron on January 29, 1996."
+corto,1751.0,Programmer Plus Report,"[2001-11-06 18:01:05+00:00] frank.de@enron.com:
+Sally,
+
+Attached is the information on the Programmer Plus Program we discussed. Let me know if you have any questions.
+
+Regards
+Frank",1.0,"What is the name of the program for which Frank De provided information on November 6, 2001?",The program is the Programmer Plus Program.
+corto,1179.0,"Net Works Floor Meetings - DATES AND LOCATIONS HAVE CHANGED PLEASE
+ READ","[2001-04-09 10:31:00+00:00] sally.beck@enron.com:
+Please put the 17th meeting on my calendar.  I may or may not attend, but 
+want to have that on the calendar just in case.  Thanks.",1.0,"Which specific meeting date did I request to be added to my calendar on April 9, 2001?",I requested to add the meeting on the 17th to my calendar.
+corto,948.0,Hess Annuity,"[2001-02-01 10:09:00+00:00] sally.beck@enron.com:
+FYI - The details below take care of the Hess ""sharing arrangement"" that we 
+discussed yesterday.  --Sally",1.0,"What specific business matter was resolved by the details regarding the Hess sharing arrangement discussed on January 31, 2001?",The details provided in the email finalized the Hess sharing arrangement that I discussed with the recipient the previous day.
+corto,720.0,Risk Forum's,"[2000-12-07 18:27:00+00:00] sally.beck@enron.com:
+I had lunch with Barry yesterday and suggested that they might benefit from 
+attending these meetings.  Hope you don't mind my extending that invitation.  
+--Sally",1.0,"Who did I have lunch with on December 6, 2000, and what suggestion did I make regarding their attendance at meetings?",I had lunch with Barry and suggested that they might benefit from attending the meetings I mentioned.
+corto,986.0,Re: EGM Staff Meeting - Reminder,"[2001-02-09 18:40:00+00:00] sally.beck@enron.com:
+I will be at a meeting in Dallas next Monday and will be unable to attend.  
+--Sally",1.0,"Why will I be unable to attend a meeting on Monday, February 12, 2001?",I will be unable to attend because I will be at a meeting in Dallas on that day.
+corto,259.0,Re: Vacation,"[2000-06-20 16:00:00+00:00] sally.beck@enron.com:
+Enjoy the time off!  Just let us know when that week comes who your in charge 
+person will be.  --Sally 
+
+
+   
+	Enron North America Corp.",1.0,What information do I need from the recipient regarding their upcoming week off?,I need them to let us know who their designated person in charge will be during that week.
+corto,1467.0,Rescheduled: Pre-PRC Briefing (Jun 12 04:00 PM CDT),"[2001-06-06 18:05:20+00:00] 40enron@enron.com:
+Meeting to run through EBS Trading Support staff for cross calibration.",1.0,What is the purpose of the meeting regarding the EBS Trading Support staff?,The meeting is to run through the EBS Trading Support staff for cross calibration.
+corto,570.0,Mgmt Summary & Hot List,"[2000-11-10 15:44:00+00:00] jeff.smith@enron.com:
+Please find attached the EGM Management Summary and Hot List as of 11/09.  
+Please contact me if you have any questions/comments.  
+
+Thanks,
+Jeff",1.0,"What documents did Jeff Smith send on November 10, 2000?",Jeff Smith sent the EGM Management Summary and Hot List as of 11/09.
+corto,970.0,Wellesley Revised Strategy,"[2001-02-05 15:16:00+00:00] sally.beck@enron.com:
+Please print Wellesley schedule - I think that I have a conflict with the 
+date that they need me.  Let's discuss.",1.0,Why did I ask to print the Wellesley schedule?,I asked to print the schedule because I believe I have a scheduling conflict with the date they need me.
+corto,608.0,weekly log summary,"[2000-11-16 10:02:00+00:00] shona.wilson@enron.com:
+Please call if you have any questions - 713 853 9123.",1.0,What is the phone number provided by Shona Wilson for any questions?,The phone number provided by Shona Wilson is 713 853 9123.
+corto,170.0,"Re: Astros Group Tickets for Thursday, April 27, vs. Chicago Cubs","[2000-04-24 14:24:00+00:00] sally.beck@enron.com:
+You have a ticket - we will see you there, with you pager on!  Patti will get 
+your ticket to you before Thursday.",1.0,Who is responsible for delivering my ticket before Thursday?,Patti is responsible for getting the ticket to me before Thursday.
+corto,1537.0,FW: Suncor Relationship renewal - 3 yrs,"[2001-10-05 20:53:56+00:00] m.hall@enron.com:
+this is good new.
+
+I am have Heather send the Enron bucks.
+
+thanks
+
+bob",1.0,Who is sending the Enron bucks according to Bob's email?,Heather is sending the Enron bucks.
+corto,1217.0,Re: New Building,"[2001-04-17 20:54:00+00:00] sally.beck@enron.com:
+Thanks for following up on this.  We will incorporate you numbers for offices and spots in the Tower.",1.0,What will be done with the numbers provided for offices and spots in the Tower?,We will incorporate those numbers for offices and spots in the Tower.
+corto,145.0,Re: Enron Field,"[2000-04-05 18:32:00+00:00] sally.beck@enron.com:
+Glad you enjoyed the game.  The field will make baseball much more fun in 
+Houston.",1.0,What is my opinion regarding the impact of the new field on baseball in Houston?,I believe the field will make baseball much more fun in Houston.
+corto,34.0,Houston Analyst North America Presentation,"[2000-01-06 15:54:00+00:00] sally.beck@enron.com:
+Preview of info request before targeted 4:30 PM meeting in my office today.",1.0,"What is the purpose of the information request I sent on January 6, 2000?",It is a preview of information requested before the targeted 4:30 PM meeting in my office that day.
+corto,631.0,RE: Teambuilding 11/21,"[2000-11-20 18:02:00+00:00] sally.beck@enron.com:
+I will be out of the office on Tuesday, so have a great time without me.  
+Have a great Thanksgiving. --Sally",1.0,When will I be out of the office in November 2000?,"I will be out of the office on Tuesday, November 21, 2000."
+corto,217.0,Summer Analyst Information Session,"[2000-05-19 09:00:00+00:00] sally.beck@enron.com:
+FYI  -- Let me know who Angelic will report to and what she will be doing.  
+Thanks.",1.0,"What information did I request regarding Angelic on May 19, 2000?",I requested to know who Angelic will report to and what her job responsibilities will be.
+corto,692.0,Re: Blake Lasuzzo,"[2000-12-06 11:13:00+00:00] sally.beck@enron.com:
+Thanks for letting us know about Blake.  I just tried to reach him and left a 
+congratulatory message on his answering machine.",1.0,What action did I take after being informed about Blake?,I tried to reach him and left a congratulatory message on his answering machine.
+corto,1.0,Re: Key Contacts in Your Area - December 20 - 31,"[1999-12-15 14:14:00+00:00] sally.beck@enron.com:
+Thanks for the contact names.  You are right - no staff meeting on Monday, 
+Deceber 20.  Have a merry Christmas!  --Sally",1.0,"Is there a staff meeting scheduled for Monday, December 20, 1999?","No, there is no staff meeting on that day."
+corto,29.0,Employee Profile - Brent Price,"[2000-01-05 16:26:00+00:00] sally.beck@enron.com:
+Attached please find a completed employee profile for Brent Price for 
+consideration for promotion to Vice President.  Please call me if you have 
+any questions.",1.0,For which employee did I submit a completed profile for promotion to Vice President?,I submitted the profile for Brent Price.
+corto,1730.0,ASAP,"[2001-11-01 22:24:21+00:00] sally.beck@enron.com:
+Please print the attached on Enron letterhead and fax to Marilou ASAP at The Tremont House.  Thanks!",1.0,Where and to whom did I ask to fax the letterhead document?,I asked to fax it to Marilou at The Tremont House.
+corto,221.0,Re: UT MBA Excellence Awards,"[2000-05-23 18:16:00+00:00] sally.beck@enron.com:
+I have this on my calendar for September 7 and I am looking forward to it.  
+Thanks.",1.0,On what date is the event I have scheduled on my calendar for September?,The event is scheduled for September 7.
+corto,540.0,Re: ASE,"[2000-11-06 13:16:00+00:00] sally.beck@enron.com:
+I have attended three ASE's and would be happy to visit with you about my 
+opinions.  I will ask Patti to schedule a meeting.  --Sally",1.0,"How many ASE's have I attended, and who will I ask to schedule a meeting?","I have attended three ASE's, and I will ask Patti to schedule a meeting."
+corto,38.0,,"[2000-01-10 10:39:00+00:00] sally.beck@enron.com:
+This includes OU and UT -- you can ignore the OU names, but there are some 
+good students that I can introduce you to when they arrive!",1.0,"Which university names can be ignored in the list I provided on January 10, 2000?",The OU names can be ignored.
+corto,2081.0,RE: urgent info needed for DIP - interco,"[2002-01-09 21:19:57+00:00] shona.wilson@enron.com:
+For this report, please include interco balances as they are included in pma and p&l.
+
+Thanks!",1.0,"What specific data should be included in the report requested by Shona Wilson on January 9, 2002?",The report should include interco balances as they are included in pma and p&l.
+intermedio,1817.0,5:00 PM Daily Meeting,"[2001-11-13 18:26:25+00:00] sally.beck@enron.com:
+As discussed yesterday, we will have a 5:00 pm meeting daily to update you on details regarding the merger.   We will begin this meeting today, Novmeber 13, and will continue this as long as you find it useful.  The meeting will be held each day in ECS 04075 (same conference room that we were in on Monday morning).  
+
+Mark Taylor will join us from Legal this afternoon. He will discuss terms of the merger agreement and will answer questions that you may have.  We will also discuss our ENW plans for a PRC ""Lite"".   
+
+There is no need to RSVP to this meeting each day.  The meeting will be held daily for all of those who can attend.  
+
+--Sally",1.0,"Where and at what time will the daily merger update meetings be held starting November 13, 2001?",The daily merger update meetings will be held at 5:00 pm in conference room ECS 04075.
+intermedio,823.0,Internal Feedback for PRC,"[2000-12-29 18:02:00+00:00] sally.beck@enron.com:
+I have completed internal feedback forms through the PEP system for Brent 
+Price, Bob Hall and Peggy Hedstrom.  Those appeared to be the only names that 
+you included for which you wanted my input.  Somehow, from Andrea's voice 
+mail message last week, I had anticipated responding to more requests - I 
+thought perhaps input in working with Wes within ENA or Melissa on SAP.  
+Those weren't  on my list within the PEP system, so I just wanted you to know 
+that I have responded to the three that were there.  If there was intent for 
+me to respond to any others, they weren't accessible in the system. (Believe 
+me, I am not asking for more - just wanted to be sure that what I saw in PEP 
+as a request matched your expectations in terms of my response).  --Sally",1.0,"For which employees did I complete internal feedback forms in the PEP system as of December 29, 2000?","I completed feedback forms for Brent Price, Bob Hall, and Peggy Hedstrom."
+intermedio,915.0,Re: Fred Lagrasta - Origination,"[2001-01-18 11:50:00+00:00] sally.beck@enron.com:
+Silly as it may seem, have Brian Heinrich dig up a copy of the form that we 
+used last year for headcount addtions.  Let's complete those for these 
+positions and have Fred and Scott Neal sign them.  They need to understand 
+the addtional cost associated with these requests.  They will forget later in 
+the year if they aren't making much money.  
+
+Do you agree that these positions are needed and will add value?  --Sally",1.0,"Who needs to sign the headcount addition forms for the new positions, and what should they understand before signing?","Fred and Scott Neal need to sign the forms, and they must understand the additional costs associated with these headcount requests."
+intermedio,1475.0,A Tour of the Enron Center,"[2001-06-06 22:39:22+00:00] d..hogan@enron.com:
+A  special tour of the Enron Center has been scheduled, just for you.
+
+Date: Thursday, June 14, 2001
+Time: 10:00 AM - 11:00 AM
+
+Please meet down in the PLAZA near the round security desk promptly
+at 10:00 a.m.  Hardhats and safety glasses will be available at that time.
+
+Please note:  No sandals allowed - Hard surface shoes only.
+
+Please contact Irena Hogan at x36143 for cancellations.
+
+<Embedded Picture (Metafile)>
+<Embedded Picture (Metafile)>",1.0,"What are the date, time, and dress code requirements for the special tour of the Enron Center scheduled for me?","The tour is on Thursday, June 14, 2001, from 10:00 AM to 11:00 AM, and the dress code requires hard-surface shoes, as no sandals are allowed."
+intermedio,139.0,Draft Memo re: Brent's Role in London,"[2000-03-31 11:38:00+00:00] sally.beck@enron.com:
+Per my voice mail message, attached is a draft memo regarding Brent's role in 
+London.  Any comments would be appreciated.  Fernley and I plan to send this 
+out sometime next week, prior to Brent's assignment starting on April 10.",1.0,"When is Brent's assignment in London scheduled to start, and when do Fernley and I plan to send out the draft memo regarding his role?","Brent's assignment starts on April 10, and we plan to send the memo sometime the week prior."
+intermedio,1641.0,FW: Suggestions to help short term morale,"[2001-10-24 14:50:09+00:00] sally.beck@enron.com:
+In the lunch meeting that I held yesterday, I asked all in attendance to let me know if they had ideas on ways to improve employee morale at present.  I can always count on Bob Superty to give thoughtful consideration to this type of request - and to act!  Here are his ideas.  My thought is to get together an informal team (doesn't even have to be announced or publicized) to continue to generate ideas that could make a difference to employee morale right now and to make some of these things happen.  Any thoughts?  --Sally",1.0,"Who provided ideas for improving employee morale following my request at the lunch meeting on October 23, 2001?",Bob Superty provided thoughtful ideas for improving employee morale.
+intermedio,1510.0,RE: ctc claim,"[2001-10-01 14:06:45+00:00] sally.beck@enron.com:
+If I were you, I would talk to Wanda and let her know that Ken is the point person as it relates to currently handling this matter and that we will trust that she will keep him fully informed and involved.  We are glad that she is there to provide some continuity on historical data, but all historical data and forward actions must be confirmed with Ken.  Let me know if you would like me to underscore this with Wanda, and I will be glad to.  Might be a good idea to send a note to Dave, Janet and Dan stating that legal has named Wanda as the point person, but that for appropriate continuity and execution that Ken must be fully involved - and that you have asked Wanda to make that part of her responsibility.  Copy Wanda on the note.  --Sally",1.0,Who is the designated point person that Wanda must keep fully informed and involved regarding the matter I am handling?,Ken is the point person who must be fully informed and involved.
+intermedio,194.0,Contact at Enron Field,"[2000-05-08 19:03:00+00:00] sally.beck@enron.com:
+Below is the name and phone number of the woman that I worked with to arrange 
+our tour of Enron  Field.  She may not be the person to talk with regarding 
+displaying a boat, but  will very likely be able to give the correct 
+contact.  It was nice to meet you.  I have enjoyed getting to know Bethany 
+through NCL.  Good luck! 
+
+
+
+Jill McCormick
+
+713-259-8965",1.0,What is the name and phone number of the contact person I worked with to arrange the tour of Enron Field?,The contact person is Jill McCormick and her phone number is 713-259-8965.
+intermedio,1234.0,Re: finally remembered!,"[2001-04-20 10:06:00+00:00] sally.beck@enron.com:
+I have my list at home, but I know that we need Dad's sister Jane and her 
+husband, Homer and Karen, Sarah in Austin (whose kids are independently 
+dell-wealthy) and I can't remember who else.  I know that there were ten 
+invitations needed, including Mom and Dad.  The list below plus those in this 
+paragraph total 8 - so we must be missing 2.  
+
+I will try to catch David and have him look at the list that I copied from 
+Mom.  
+
+Thanks for these.  I will do invitations this weekend.  Do you have the 
+address for Josephine's House?  And do we have a time?  --Sally",1.0,"How many invitations in total do I need to send out for the event involving my family, including Mom and Dad?",I need to send out ten invitations in total.
+intermedio,1528.0,RE: Congrats!,"[2001-10-05 17:33:05+00:00] sally.beck@enron.com:
+Thanks for your note.  I am wearing my longhorn shirt in the office today so that my affiliation for tomorrow's game is clear!  Let's hope for reveral of last year's score.  
+
+Hope that 2nd year is going well.  I will be in touch in the next few days on details for a dinner with Dean May and the Enron scholarship winners later in October.  --Sally",1.0,When am I planning to be in touch regarding the details for the dinner with Dean May and the Enron scholarship winners?,I plan to be in touch in the next few days to discuss the details for the dinner later in October.
+intermedio,1845.0,Maternity Leave,"[2001-11-16 16:43:29+00:00] lisa.costello@enron.com:
+I will begin my maternity leave on Monday, November 19.  In my absence, Katherine Chisley will be covering for Mark Pickering and myself.  For assistance with Mark's calendar, please contact Katherine Chisley at x58463.  Katherine will also have access to my email.
+
+Thank you,
+Lisa",1.0,"Who will be covering for Lisa Costello and Mark Pickering while Lisa is on maternity leave starting November 19, 2001?",Katherine Chisley will be covering for both Lisa Costello and Mark Pickering.
+intermedio,1411.0,EA Staff Meeting,"[2001-05-29 22:04:09+00:00] heather.choate@enron.com:
+When: Thursday, May 31, 2001 9:00 AM-10:00 AM (GMT-06:00) Central Time (US & Canada).
+Where: EB3270
+
+*~*~*~*~*~*~*~*~*~*
+
+Due to this past Memorial Holiday our EA Staff Meeting has been rescheduled this week at the indicated time.  
+
+If you have any questions or concerns, please call me at x33278. 
+
+Thank you, 
+Heather Choate",1.0,What is the rescheduled date and time for the EA Staff Meeting that was moved due to the Memorial Holiday?,"The EA Staff Meeting is rescheduled for Thursday, May 31, 2001, from 9:00 AM to 10:00 AM."
+intermedio,1921.0,<<Concur Expense Document>> - Brent Price,"[2001-11-26 21:22:04+00:00] enron_update@concureworkplace.com:
+The following expense report is ready for approval:
+
+Employee Name: Brent A. Price
+Status last changed by:  Automated Administrator
+Expense Report Name: Brent Price
+Report Total: $462.06
+Amount Due Employee: $462.06
+
+
+To approve this expense report, click on the following link for Concur Expense.
+http://expensexms.enron.com",1.0,What is the total amount of the expense report for Brent A. Price that is ready for my approval?,The total amount of the expense report is $462.06.
+intermedio,2037.0,UPDATE: Supported Internet Email Addresses,"[2002-01-04 19:21:35+00:00] administration.enron@enron.com:
+This is a reminder that the ect.enron.com,ei.enron.com,and ees.enron.com Email domains will be decommissioned by close of business Friday, January 18th. If you currently use an Email address of name@ect.enron.com, name@ei.enron.com or name@ees.enron.com, you will need to notify your contacts to send mail to you at firstname.lastname@enron.com.
+
+This is the first step of several to standardize everyone's Email address to firstname.lastname@enron.com. 
+
+If you have questions regarding this email, send an Email to enron.messaging.administration@enron.com.
+
+Thank you for participation, cooperation and support. 
+Enron Messaging Administration",1.0,"By what date must users of the ect.enron.com, ei.enron.com, and ees.enron.com email domains switch to the firstname.lastname@enron.com format?","These domains will be decommissioned by the close of business on Friday, January 18th."
+intermedio,844.0,Change in Presenter - Analyst Orientation,"[2001-01-08 18:52:00+00:00] sally.beck@enron.com:
+I will be out of town on January 19, so Brenda Herod has agreed to make the 
+presentation for Rick Causey.  Please replace my name with hers for all 
+communication regarding this Analyst Orientation.  Thanks.",1.0,Who will be making the presentation for Rick Causey at the Analyst Orientation on January 19 because I will be out of town?,Brenda Herod has agreed to make the presentation for Rick Causey.
+intermedio,220.0,Can we reschedule lunch to another day?,"[2000-05-23 15:44:00+00:00] patti.thompson@enron.com:
+Hi Ted,
+
+It's Patti.  An all day meeting has been scheduled for Wednesday, May 31 - 
+the day you and Sally were scheduled for lunch.  Any possibility of 
+rescheduling to another day?  Sally is available Thursday, June 1.
+
+Just let me know.
+
+Thanks,
+Patti",1.0,"What is the proposed alternative date for the lunch meeting with Ted that was originally scheduled for Wednesday, May 31?","The proposed alternative date is Thursday, June 1."
+intermedio,595.0,ETS Risk Management Policy,"[2000-11-15 07:34:00+00:00] dan.fancler@enron.com:
+Below is the ETS Risk Management Policy, currently Cassandra Schultz in RAC 
+is reviewing the policy, but we would appreciate any input from you that 
+would help.",1.0,Who is currently reviewing the ETS Risk Management Policy at RAC?,Cassandra Schultz is currently reviewing the policy.
+intermedio,331.0,Re: Class Confirmation - Kristin Albrecht,"[2000-08-03 11:19:00+00:00] sally.beck@enron.com:
+Kristin will be working for EBS at the time of this class, reporting to Barry 
+Pearce.  Please contact Kristin or Barry for the appropriate RC within EBS to 
+charge for the fee for this class.  If you charged ENA at the time of 
+enrollment, please reverse that charge.  Thanks.",1.0,"Who will Kristin be reporting to while working for EBS, and who should be contacted regarding the class fee charge?","Kristin will be reporting to Barry Pearce, and either Kristin or Barry should be contacted for the appropriate RC to charge."
+intermedio,106.0,Orlando,"[2000-03-01 18:51:00+00:00] sally.beck@enron.com:
+Please share this info with Mom and Dad:
+
+Hotel: Hotel Royal Plaza (with Klein High School Bearkadettes) 
+ 
+Phone:  (407) 828-2828
+
+Air Travel: Miami Air charter leaving IAH at 4:30 PM on Thursday, March 2
+
+  Miami Air charter leaving Orlando at 4:30 PM on Monday, March 6",1.0,What are the flight details for the Miami Air charter trip to Orlando on March 2 and the return trip on March 6?,"The flight leaves IAH at 4:30 PM on Thursday, March 2, and leaves Orlando at 4:30 PM on Monday, March 6."
+intermedio,541.0,RE: CommodityLogic Weekly Update Mtg.,"[2000-11-06 13:30:00+00:00] sally.beck@enron.com:
+I told  Tom last week that I have a standing systems meeting on Thursdays at 
+9:00, so this change doesn't work for me.  Can we try 10:00 am on Thursday 
+this week?  Thanks. --Sally",1.0,Why does the proposed meeting time change for the systems meeting on Thursday not work for me?,It does not work because I have a standing systems meeting every Thursday at 9:00 am.
+intermedio,593.0,Our meeting,"[2000-11-14 16:56:00+00:00] allan.sommer@enron.com:
+Hello Sally,
+
+Thanks for meeting me last week and for discussing what looks to be a very 
+interesting and very challenging task ahead for you and your group.  In line 
+with our talks - I will be sending you my updated CV for your records - I 
+would be interested in further discussions - should you see a commercial role 
+develop within your group.
+
+Regards,
+
+Allan Sommer",1.0,What is Allan Sommer interested in pursuing after our meeting and the submission of his updated CV?,He is interested in further discussions should a commercial role develop within my group.
+intermedio,558.0,Re: Management of Accounting/Regulatory Reporting Functions,"[2000-11-09 18:26:00+00:00] sally.beck@enron.com:
+I know that there was a pretty serious set of audit findings from the TX 
+RRCommission earlier this year.  I suspect this is a result of that.  Brenda 
+Herod was involved in the download meeting with the rep from the TRRC.  If 
+she hasn't already told  you about that meeting, you may to visit with her on 
+that.  --Sally",1.0,Who was involved in the download meeting with the representative from the Texas Railroad Commission regarding the audit findings?,Brenda Herod was involved in that meeting.
+intermedio,251.0,"Out of the Office - Afternoon of Friday, June 9","[2000-06-08 17:56:00+00:00] sally.beck@enron.com:
+I will be out of the office after noon on Friday, June 9, headed to the hill 
+country to pick up one of my daughters from camp.  I will not attend the 
+Friday afternoon meeting.  You will be able to reach me on my cell phone, 
+713-417-1591, as needed during the afternoon.",1.0,"What is my cell phone number if I need to be reached on the afternoon of Friday, June 9, 2000?",My cell phone number is 713-417-1591.
+intermedio,1036.0,Re: Executive Impact and Influence Program- Enrollment,"[2001-03-08 15:18:00+00:00] sally.beck@enron.com:
+I took the Executive Influence and Impact program in May 1999 and also took 
+the follow up Communications program in 2000.  Is this another program that 
+you are contacting me about, or would Enron like for us to repeat the 
+program?  Hopefully HR records indicate that I completed the two programs in 
+1999 and 2000.  Just let me know if I need to sign up for anything.  --Sally",1.0,Which training programs did I complete in 1999 and 2000?,I completed the Executive Influence and Impact program in May 1999 and the follow-up Communications program in 2000.
+intermedio,1674.0,RE: A QUICK NOTE,"[2001-10-28 22:20:30+00:00] sally.beck@enron.com:
+I am just a little tardy in working my way through e-mails!  I understand that you will be joining Beth Apollo's risk team in EES soon.  A win-win situation for everyone involved, I believe.  Please let me know when you will next be in town - would love to see you.  --Sally",1.0,"Which team will the recipient of my October 28, 2001 email be joining in EES?",The recipient will be joining Beth Apollo's risk team.
+intermedio,894.0,Re: Managing Director and Vice President Elections,"[2001-01-16 11:28:00+00:00] sally.beck@enron.com:
+Thanks for your note on the promotion.  
+
+Patti is beginning to work on details for the 1/31 tour of Enron Field and 
+dinner for Ted and his students from OU.  She should contact you for a list 
+of recent OU grads so that we can get the invitation list together.  I hope 
+that you have that date on your calendar!   I will ask MIke McConnell if he 
+would like to join us, too.",1.0,"What event is scheduled for January 31, 2001, involving Ted and his students from OU?",There is a tour of Enron Field and a dinner scheduled for Ted and his students from OU.
+intermedio,1223.0,Update on ConfirmLogic,"[2001-04-18 18:58:00+00:00] sally.beck@enron.com:
+I will meet with Kim this afternoon on her comments on ConfirmLogic.  Bottom line, no sign off from Kim at this point.  Thought you might want to know.  --Sally",1.0,"What is the status of the sign-off from Kim regarding ConfirmLogic as of April 18, 2001?",There is no sign-off from Kim at this point.
+intermedio,559.0,Re: VaR meeting,"[2000-11-10 08:29:00+00:00] patti.thompson@enron.com:
+TJ,
+
+Sorry, please disregard last email - I did not see this follow-up notice.  
+Unfortunately, Sally is not available on Thursday either - she will be at the 
+Enron Management conference in San Antonio Thursday & Friday.  All Enron VP's 
+are invited (Cassandra & Kevin?).
+
+Please call & I can give you Sally's available time if she needs to attend.
+
+Thanks,
+Patti x39106",1.0,"Where will I be on the Thursday and Friday following November 10, 2000?",I will be at the Enron Management conference in San Antonio.
+intermedio,1750.0,Numbers for Steve Venturatos,"[2001-11-06 17:27:31+00:00] sally.beck@enron.com:
+Here are contact numbers for Steve:
+
+Work	512-427-3307
+
+Cell	512-431-7739
+
+I will see you tomorrow at 9:30.  --Sally",1.0,What are the work and cell phone numbers for Steve?,Steve's work number is 512-427-3307 and his cell number is 512-431-7739.
+intermedio,2206.0,Changes to List,"[2002-01-21 16:44:42+00:00] amanda.curless@enron.com:
+Sally,
+I know that we added Leslie Reeves, Christina Valdez adn Israel Estrada on Thursday but I was not sure who they replaced. Can you provide me with the names of the employees that they replaced. Thanks Sally!
+ 
+Mandy",1.0,"Which employees were replaced by Leslie Reeves, Christina Valdez, and Israel Estrada on the Thursday prior to January 21, 2002?","I need to provide Mandy with the names of the employees that were replaced by Leslie Reeves, Christina Valdez, and Israel Estrada."
+intermedio,197.0,Mark Mixon Resume,"[2000-05-09 14:16:00+00:00] patti.thompson@enron.com:
+Laura,
+
+I am attaching resume of Mark Mixon that Sally left you a voicemail regarding 
+on Monday.  If you are going to be in town and would like to see Mark, please 
+let me know and I would be happy to make arrangements.  
+
+Thanks,
+Patti Thompson x39106
+Sally's Assistant",1.0,"Who is the candidate whose resume Patti Thompson sent to Laura regarding my voicemail from Monday, May 8, 2000?",The candidate is Mark Mixon.
+intermedio,1076.0,Re: Material for Commodity Logic meeting,"[2001-03-28 19:15:00+00:00] sally.beck@enron.com:
+Bob,
+
+Sally is out all day w/ UT recruiting function.  She will not be back into the office until 8:00 Thursday for CommodityLogic meeting.  I am forwarding this to Bob Hall - please check with him regarding how he would like this handled.
+
+Thanks,
+PT",1.0,"When will I return to the office after the UT recruiting function on March 28, 2001?",I will be back in the office at 8:00 on Thursday for the CommodityLogic meeting.
+intermedio,1615.0,Yellow Rose Petal award,"[2001-10-22 14:43:51+00:00] maryt@houston.rr.com:
+Hi Ladies, 
+I hope the meeting on Saturday was interesting and  informative for you. Ginger was concerned that so many people left at noon when  it was supposed to last until 1 pm, but I think we pretty much covered  everything. 
+ 
+In the notes I saw that it says ""Awards, Yellow  Rose Petal, 25 hours over the minimum. This is a new award."" I just want to  clarify that it is an award that our chapter asked for and is not a nation wide  award. If you want to have it, your chapter will have to request it from  National.
+Marymaryt@houston.rr.com",1.0,What clarification did Mary provide regarding the 'Yellow Rose Petal' award mentioned in the meeting notes?,"Mary clarified that it is an award requested by their specific chapter and is not a nationwide award, so other chapters must request it from National if they want it."
+intermedio,1430.0,RE: UT undergrad recruiting,"[2001-06-04 14:03:42+00:00] sally.beck@enron.com:
+Kristin, I know that we would like to get together with you to discuss UT recruiting.  The easiest way to get this set up is probably for you to coordinate with our two assistants on a time that will work.  My assistant is Patti Thompson (x39106) and Rick's assistant is Sharron Westbrook.   By copy of this note, I will ask  Patti to coordinate with Sharron and one of the two will get back with you to let you know available dates and times that Rick and I could get with you.  -Sally",1.0,Who are the assistants I designated to coordinate the UT recruiting meeting with Kristin?,"I designated my assistant, Patti Thompson, and Rick's assistant, Sharron Westbrook, to coordinate the meeting."
+intermedio,960.0,Conversation with Julie Gomez,"[2001-02-02 15:16:00+00:00] sally.beck@enron.com:
+Julie called me immediately after getting my e:mail message about you.  Her 
+role has changed once again at  Enron!   She is running more of a 
+fundamentals group at present.  Wanted to know if you would be interested in 
+that.  Told her that I couldn't speak for you.  I'd suggest that you contact 
+her and talk with her even if at first blush that may not be your first 
+interest.  Can't hurt to hear about what she is doing and spend some time 
+with her.  You may not then be interested in her rotation, but you'll know 
+more and she will know you.  
+
+FYI - she is a University of Nebraska graduate.  --Sally",1.0,"What is the educational background of Julie, the person I suggested contacting regarding a role in the fundamentals group?",Julie is a University of Nebraska graduate.
+intermedio,402.0,Re: OU Team Meeting,"[2000-08-25 17:46:00+00:00] sally.beck@enron.com:
+I can't make 10:00 on September 7th.  I have a business review meeting 
+scheduled with Jeff Skilling at that time.  FYI:  Bob Klein has resigned from 
+the company effective August 31.  Let me know what I miss in the meeting.  
+Thanks.  --Sally 
+
+
+   
+	Enron North America Corp.",1.0,"Why am I unable to attend the meeting scheduled for 10:00 on September 7th, and what personnel change occurred at the company effective August 31st?","I cannot attend because I have a business review meeting with Jeff Skilling, and Bob Klein has resigned from the company."
+intermedio,726.0,Request Submitted: Access Request for maria.garza@enron.com,"[2000-12-08 10:36:00+00:00] arsystem@mailman.enron.com:
+You have received this email because you are listed as a security approver. 
+Please click 
+http://itcapps.corp.enron.com/srrs/auth/emailLink.asp?ID=000000000009315&Page=
+Approval to review and act upon this request.
+
+
+
+
+Request ID          : 000000000009315
+Request Create Date : 12/6/00 8:47:26 AM
+Requested For       : maria.garza@enron.com
+Resource Name       : EOL US Other
+Resource Type       : Applications",1.0,What is the Request ID for the security approval request regarding Maria Garza's access to the EOL US Other application?,The Request ID is 000000000009315.
+intermedio,1609.0,RE: OU Trip,"[2001-10-19 18:47:07+00:00] sally.beck@enron.com:
+I am going to miss the reception on Sunday evening and interviews on Monday.  I will arrive on Monday night and will interview on Tuesday.  Look forward to seeing you then.  --Sally",1.0,What is my revised schedule for the upcoming reception and interviews?,"I will miss the reception on Sunday and the interviews on Monday, but I will arrive Monday night and conduct interviews on Tuesday."
+intermedio,2127.0,11/30 Books,"[2002-01-13 20:05:41+00:00] c..gossett@enron.com:
+There seems to be some confusion around the calculation of books on 11/30/2001.  All books were run properly in the gas and power area on 11/30, as that was the last day prior to the bankruptcy declaration.  Please let myself or Sally Beck know if you have any questions regarding this.
+
+Thanks",1.0,"What is the status of the books in the gas and power area for the date of 11/30/2001, which was the last day before the bankruptcy declaration?",All books were run properly in the gas and power area on 11/30/2001.
+intermedio,409.0,Bearkadette Schedule,"[2000-08-28 18:29:00+00:00] sally.beck@enron.com:
+Here are the home games when Meagan will be dancing in the half-time routine:
+
+ Friday, September 15  7:00 pm
+
+ Saturday, October 14  7:00 pm
+
+ Friday, October 20  7:00 pm  (homecoming) 
+
+There is a chance that she could be added to two other home games if 
+alternates are needed.  Nothing definitive on that, of course.  She did get 
+put into a routine last year as an alternate, but you never know.  
+
+We would love for you to come for a visit this fall, and it would be fun if 
+it would work around one of these games.  I have also given this schedule to 
+Cindy, as she and Brigeda were interested in making it to a game.  
+
+I am headed to Dallas early tomorrow morning.  Patti has sent you a copy of 
+my itinerary.",1.0,What are the dates and times for the home games where Meagan will be performing in the half-time routine?,"The home games are Friday, September 15 at 7:00 pm, Saturday, October 14 at 7:00 pm, and Friday, October 20 at 7:00 pm."
+intermedio,1055.0,Response to RFP,"[2001-03-20 12:43:00+00:00] sally.beck@enron.com:
+Did you get the changes that we discussed yesterday included before the 
+response to the RFP went to CMS? 
+
+Also, please send me a copy of the complete response to the RFP, assuming you 
+have that.  You mentioned yesterday that the document we were reviewing was 
+only part of the package.  I would like to see the whole thing.  
+
+Thanks.",1.0,What specific document did I request to see in its entirety regarding the RFP response sent to CMS?,"I requested a copy of the complete response to the RFP, as the document we were reviewing was only part of the package."
+intermedio,2036.0,Steve Hotte Vacation 01/07/02,"[2002-01-04 18:18:29+00:00] rita.houser@enron.com:
+Steve will be on vacation Monday January 7, returning to the office on Tuesday.
+Scott Abshire will be in charge during Steve's absence.
+
+Scott will be available by email on Blackberry, his office phone is 713-853-1460, and his cell phone number is 713-853-6780.
+
+Steve will be available by email on Blackberry. 
+
+
+Thank you,
+Rita Houser
+ETS IT 
+713-853-5110",1.0,"Who is in charge during Steve's absence on Monday, January 7, and what is his cell phone number?","Scott Abshire is in charge, and his cell phone number is 713-853-6780."
+intermedio,127.0,Operations/Controls Review - Next Set of Locations and Schedules,"[2000-03-14 16:51:00+00:00] sally.beck@enron.com:
+Ted Murphy, Tom Bauer, Jim Brown and I met yesterday to schedule the next 
+series of operations/controls reviews of Enron offices or certain companies 
+in which Enron holds an ownership interest.   Attached is a copy of that 
+schedule.  Please contact Ted or me if you have any questions.  You will note 
+that the full make-up of the teams is being worked on currently.  We have 
+identified the lead on each review, however, from RAC, Operations and AA.",1.0,"Who did I meet with on March 13, 2000, to schedule the operations and controls reviews of Enron offices?","I met with Ted Murphy, Tom Bauer, and Jim Brown."
+intermedio,851.0,Re: anniversary,"[2001-01-10 17:08:00+00:00] sally.beck@enron.com:
+I love it!!  I think that is perfect.  Much easier for my family and probably 
+for everyone else.  That way we can probably do this on their anniversary, 
+assuming that works for everyone.  Removing some of the travel hassels should 
+mean that everyone would have a better time, too.  Hyatt Hill Country is one 
+obvious choice - I was there in November and it is still very nice.  There is 
+a newer resort in the area also.  I can't think of the name of it offhand, 
+but David knows and I will get the name from him tonight and call you.  
+--Sally",1.0,Which resort did I suggest as a potential location for the family anniversary trip in January 2001?,I suggested the Hyatt Hill Country.
+intermedio,2215.0,FW: Referral from Steve Pruett,"[2002-01-25 15:25:24+00:00] jeff.bartlett@enron.com:
+Sally-
+If you are not the appropriate party to respond to this inquiry, could you please pass along to the appropriate Enron Net Works person?   With ENW going to Newco, I am not sure who to contact.
+FYI, Steve Pruett is a former Enron VP in Energy Capital Resources that left Enron approximately 6 months ago.
+thanks,
+Jeff",1.0,"Who is Steve Pruett, according to the email from Jeff Bartlett?",Steve Pruett is a former Enron VP in Energy Capital Resources who left Enron approximately six months prior to January 2002.
+intermedio,2002.0,Re: FW: information for bert stromquist,"[2001-12-31 23:08:03+00:00] beth.apollo@enron.com:
+Pat weatherspoon is aware of the boxes that are ready to transfer to hpl. We discussed with Bob and he wanted to handle after the holidays.  Will get back to you with more when Pat on Wed
+
+B
+Beth Apollo",1.0,"Who is aware of the boxes ready to be transferred to HPL, and when will Beth Apollo provide more information?","Pat Weatherspoon is aware of the boxes, and Beth Apollo will provide more information when Pat returns on Wednesday."
+intermedio,650.0,Accomplishments for 2000,"[2000-11-28 12:06:00+00:00] patti.thompson@enron.com:
+I apologize for the late notice, but Sally has just been notified that a 
+cross-functional PRC meeting w/ Rick Causey has been set for this Friday, 
+December 1.  She will need a compilation of your accomplishments by 
+Thursday.  If you have directors reporting to you, please request that they 
+also have data in to Sally by Thursday.
+
+Thanks for your help,
+Patti x39106",1.0,"When is the cross-functional PRC meeting with Rick Causey scheduled, and when is the deadline for submitting accomplishment compilations?","The meeting is scheduled for Friday, December 1, and the deadline for submitting accomplishments is Thursday."
+intermedio,877.0,London - Week of January 15,"[2001-01-12 23:03:00+00:00] sally.beck@enron.com:
+Just wanted to drop you a note to let you know that I will be in the London 
+office during the week of January 15.  I will arrive just after lunch on 
+Monday and plan to be there through Thursday.  Much of my time will be spent 
+with Fernley and Mike Jordan.  
+
+If you have a few minutes while I am in town, it would be great to get with 
+you to hear if there is anything that is of particular concern or interest to 
+you in supporting the continuing growth of your business in 2001.  I will 
+stop by while I am in the office.  --Sally",1.0,"During my visit to the London office the week of January 15, 2001, which individuals did I plan to spend most of my time with?",I planned to spend most of my time with Fernley and Mike Jordan.
+intermedio,1162.0,Peoples presentation,"[2001-04-06 03:52:00+00:00] sally.beck@enron.com:
+This is a copy of the presentation that Bob Superty made to the Peoples Energy Board this week.  Lousie Kitchen told me that he was very impressive in the presentation (not a surprise to me, but it is nice when others recognize the talent that is in the operations organization).  We may be able to incorporate some of this into our presentation to originators for internal purposes, and there may be parts of this that could be used in external marketing tools. --Sally",1.0,Who gave a presentation to the Peoples Energy Board that Louise Kitchen found very impressive?,Bob Superty gave the presentation.
+intermedio,1029.0,Re: UT/Enron MBA Excellence Scholarships,"[2001-03-06 14:31:00+00:00] sally.beck@enron.com:
+Count me in - I have really enjoyed doing this during the past two years.   I 
+will review the 16 applications and will rank order the top eight for you by 
+the end of this week.  For your planning purposes, I will be available to 
+interview at UT during the week of March 26.  Best days for me are Tuesday, 
+March 27 and Thursday, March 29.  I can make other days work as well.  For 
+the luncheon during the week of April 16, I am available on April 16, 17, 18 
+or 19th.  Hope this helps.  
+
+If you do not have enough response from your list below, let me know and I 
+will help put together a team to interview potential scholarship recepients 
+on campus.  --Sally",1.0,What are the specific dates in March 2001 that I am available to conduct interviews at UT?,"I am available on Tuesday, March 27 and Thursday, March 29."
+largo,859.0,Re: Topics for next week,"[2001-01-11 11:57:00+00:00] sally.beck@enron.com:
+Well, I didn't get this out to you before I left the office last night.  I 
+was still pouring over bonus info until 9:30, and decided to call it quits at 
+that point.  Here are some of the things that I would like to do next week:
+
+ review your action plan to move the close and officialization of London 
+books to same day,
+
+ to replicate, if appropriate,  an Operational Risk information session for 
+London counterparts (you and I can  review early in the week what we are 
+doing here in Houston today and modify the info for Europe) 
+
+ discuss the Doorstep process with you and, if you deem appropriate, your 
+business controllers in the   London office who will participate in Doorstep 
+reviews this year (clear up and questions and get your input  on how to 
+continually improve the process), 
+
+ discuss with Mark Pickering the technology dependencies of the London office 
+related to speeding up   London's information for the corporate DPR
+
+ do some planning with you for the February 12 & 13 ASE
+
+ discuss the feasibility of utilizing our operational pricing model in London 
+
+ discuss your ideas and thoughts on CommodityLogic and other ideas around 
+potential commercialization of  mid and back office services
+
+ 
+In addition, I would like to meet with anyone in the London office that you 
+think would be beneficial.  Through Nicki Scott, I understand that Michael 
+Brown would like to meet with me so we are setting that up.  I will also 
+spend some time with Beth Apollo and Ted Murphy while I am there.  And I plan 
+to meet with Fernley as well.  
+
+Any other suggestions on topics or people to see?  
+  
+I think that we have lunch already on the calendar for Wednesday.
+
+---
+
+[2001-01-11 17:59:00+00:00] sally.beck@enron.com:
+Thanks for the responses -- all look great.  I like coming over knowing that 
+my calendar will be pretty full.  Dinner sounds great, too.  I am having 
+dinner with Beth Apollo on Monday evening to talk more about her assignment.  
+I received a note from Fernley asking about dinner on Thursday evening also.  
+
+Hope that the New York trip was worthwhile and that the trip back was 
+smooth.  --Sally",2.0,What are the specific topics and people I planned to discuss or meet with during my upcoming trip to the London office in January 2001?,"I planned to review the action plan for London books, replicate an Operational Risk session, discuss the Doorstep process, technology dependencies with Mark Pickering, planning for the February 12 & 13 ASE, and the operational pricing model. I also intended to meet with Michael Brown, Beth Apollo, Ted Murphy, and Fernley."
+largo,422.0,Sally's Austin Itinerary for 9/7/00,"[2000-09-07 15:14:00+00:00] patti.thompson@enron.com:
+Itinerary for Sally Beck
+Enron MBA Excellence Fund Scholars Dinner
+September 7, 2000
+
+
+
+
+Thur, Sept. 7 Southwest Flt. WN 2113  =20
+    4:20 pm Depart Houston-Hobby
+   5:00 pm Arrive Austin - Bergstrom Int=01,l
+
+Dinner:   Meet Rick Causey in Driskill Lobby at 6:30 PM
+Cocktails: 7:00 =01) 7:30 PM
+    Dinner:  7:30 PM
+    The Josephine House at Jeffrey=01,s Restaurant
+    1601 Waterston
+    Austin, TX
+    Phone:  512-477-2177
+
+Hotel:   The Driskill
+    604 Brazos Street
+    Austin, TX 78701
+    Phone: 512-474-5911
+    Fax:  512-474-2214=20
+    Confirmation #:  94623459
+       =20
+Fri, Sept. 8  Southwest Flt WN 599
+    8:00 am Depart Austin - Bergstrom Int=01,l
+    8:45 am Arrive Houston - Hobby",1.0,"What were the details of my itinerary for the Enron MBA Excellence Fund Scholars Dinner in Austin on September 7, 2000?","I was scheduled to depart Houston-Hobby at 4:20 PM, meet Rick Causey at The Driskill lobby at 6:30 PM, and attend dinner at The Josephine House at 7:30 PM."
+largo,1957.0,to include with spreadsheet,"[2001-12-17 16:57:13+00:00] sally.beck@enron.com:
+We need your help in completing the following today, per Sally Beck's voice mail message:  
+
+Review your tab in this e-mail to verify the list of retained employees (your name should be in the list as well).
+
+Where applicable, if you have employees designated to go to NewCo, please indicate that on your list (we are striving for a list of employees who will remain with the estate).  
+
+Return a hard copy of your list to Marla Barnard by 2:00 PM today, with your signature that the list is accurate and complete, or with appropriate changes/updates noted.  
+
+Complete a summary template being sent to you by either Kerry Roper or Mike Galvan that will give us your total number of employees (with subtotals for those going to NewCo and those remaining with the Estate) and your total number of employees.  Please complete this by 2:00 PM also.  
+
+Thanks.",1.0,"What actions were required of employees by 2:00 PM on December 17, 2001, regarding the list of retained employees?","Employees needed to verify their tab in the email to confirm the list of retained employees, indicate those designated for NewCo, return a signed hard copy of the list to Marla Barnard, and complete a summary template for Kerry Roper or Mike Galvan."
+largo,527.0,Re: Texas bound,"[2000-10-24 15:28:00+00:00] sally.beck@enron.com:
+We can't wait to see the three of you.  Tammy and Tyler will be at home on 
+Wednesday afternoon and will be expecting you whenever they see you.  Meagan 
+has drill team practice after school until 4:45 and she drives herself home 
+and Amanda rides the bus home after school, arriving about 4:30.  
+
+Mo will be in Houston while you are here.  If it still works with your plans, 
+I thought that I would take the day off on Friday, November 3 so that you, 
+Paul, David and I could do something fun with Rebecca and Tyler.  The 
+football game is that evening at 7:00.  I had also thought about arranging a 
+lunch on Thursday (downtown - Irma's?) either for us with Mo, or even to 
+expand that to include a bunch of ex-First City folks.  Mark Wilson, James 
+Scribner, Chuch Randall and Charles Delacey all work here for Enron.  We 
+could call MG Shetty, and with you and Mo and me, it would be quite a 
+reunion.  Let me know if you would like to do either one of these two things 
+and I will arrange whatever sounds good to you.  
+
+Our phone numbers are: Home  281-370-8568
+     Sally's Office   713-853-5926
+     David's Cell:  713-299-1436
+     Sally's Cell:    713-417-1591",1.0,What plans did I propose for the visit of my guests to Houston in early November 2000?,"I proposed taking the day off on Friday, November 3, for us to do something fun with Rebecca and Tyler, and potentially arranging a lunch on Thursday at Irma's for our group and ex-First City folks."
+largo,441.0,Re: Trip to Calgary,"[2000-09-20 14:02:00+00:00] sally.beck@enron.com:
+I will take a look at my calendar and let you know when I can come north.  I 
+am heading to the airport in 5 minutes for a flight to Austin to make a 
+presentation at UT tonight, capping off about four weeks with a lot of travel 
+for me.  I will catch my breath on the plan and look at my schedule for the 
+next few weeks and I will let you know.  
+
+I sat by Sheila Knudsen at the ENA staff meeting on Friday afternoon last 
+week, and asked her if we should now schedule VP reviews.  The VP PRC meeting 
+(much rescheduled) did take place on September 11 and 12.  Sheila said that 
+as of Friday (the 15th) that HR had not received the final results from the 
+PRC, and that we should wait on reviews until we had that in hand.  I will 
+check with HR this week so see if all is finalized, so that we can schedule 
+the review.  I will keep you posted.",1.0,"What was the status of scheduling VP reviews as of September 20, 2000, following the VP PRC meeting?","The VP PRC meeting took place on September 11 and 12, but HR had not yet received the final results as of September 15, so I decided to wait until those were in hand before scheduling the reviews."
+largo,1556.0,"UT/Enron Dinner - Tuesday, October 16, 2001","[2001-10-10 21:13:27+00:00] sally.beck@enron.com:
+Attached please find an invitation to attend a dinner hosted by Enron to honor this year's recipients of the Enron MBA Excellence Fund Scholarships.  This is our third year to work jointly with many of you in the business school to award these scholarships to outstanding students in their second year of the MBA program. One of the highlights to those of us involved from Enron is the dinner that we host to recognize the students and to renew associations with many of you.  I hope that you will be able to join us at The Josephine House on Tuesday, October 16 for cocktails at 7:00pm and dinner at 7:30pm.  In attendance from Enron will be Rick Causey and me, plus a few others from our senior management team who will be in Austin conducting our on-campus interviews for Enron's Analyst Program.  I will send each of you a final list of attendees by the end of this week.  
+
+
+					 
+
+
+Sally W. Beck
+Chief Operating Officer
+Enron Net Works, LLC
+Phone - 713.853.5926
+Fax - 713.345.8100
+sally.beck@enron.com",1.0,When and where was the Enron MBA Excellence Fund Scholarship dinner scheduled to take place in October 2001?,"The dinner was scheduled for Tuesday, October 16, 2001, at The Josephine House, with cocktails at 7:00 PM and dinner at 7:30 PM."
+largo,617.0,CommodityLogic data issues,"[2000-11-17 18:06:00+00:00] douglas.fuehne@enron.com:
+Sally
+
+CommodityLogic's financial management module is offering an ""exposure 
+tracker"" in its version 2.0 release scheduled for Dec 15.  The credit 
+deparment has raised issues on the accuracy of the data this feature will 
+display and has suggested we meet with you and your group to discuss how we 
+can ensure we have good data.   Apparently, they have to do a lot of manual 
+calculations on the existing data, and we are asking for a daily feed with 
+lots of counterparties.
+
+I'd like to set up a meeting for Tues or Wednesday of this week to discuss 
+how we can address this issue;  what time is best for you?  Call me if you 
+need more info - 5-3992.   I'd like to have Tom Gros, Bill Bradford, me, and 
+you and someone from your group there if possible. 
+
+thanks!!
+
+doug",1.0,What issue did the credit department raise regarding the CommodityLogic version 2.0 release scheduled for December 15?,"The credit department raised concerns about the accuracy of the data in the new 'exposure tracker' feature and requested a meeting to ensure they have good data, as they currently rely on manual calculations."
+largo,1552.0,October 16th -Enron Dinner,"[2001-10-09 22:26:19+00:00] sally.beck@enron.com:
+We are looking forward to dinner with you and other faculty members on Tuesday, October 16 as we honor the three students who are the recipients of the 2001-2002 Enron MBA Excellence Fund Scholarships.  We have booked The Josephine House once again.  
+
+I wanted to confirm several details with you.  
+
+1)  Cocktails at 7:00 pm; Dinner at 7:30 pm  --Do these times work for you?  
+
+2)  Last year's invitees from UT included the following:
+    Associate Dean Philip Zerrillo				philip.zerrillo@bus.utexas.edu
+    Assistant Dean Britt Freund				brittf@mail.utexas.edu
+    Dr. Ehud Ronn					eronn@mail.utexas.edu
+    Dr. George Gau					ggau@mail.utexas.edu
+    Dr. Beverly Hadaway					hadawayb@mail.utexas.edu
+    Dr. Linda Golden					mkllg@mail.utexas.edu
+    Mr. Eloy Garcia					eloy.garcia@bus.utexas.edu
+
+	Would you like to make any changes or additions to this list for the dinner?  If so, please let me know the changes and appropriate e-mail addresses as necessary.  
+
+I will update you later in the week with the list of Enron attendees and the names of the students and their spouses, as applicable.  
+
+I look forward to seeing you again at the dinner.  I have enjoyed being involved in the interview process for selecting the scholarship recipients for the last three years, and I especially appreciate the opportunity for Enron and the University to jointly recognize these deserving students.  Please call me with any questions regarding the dinner.  
+
+Sally White Beck 
+Chief Operating Officer
+Enron Net Works LLC
+
+713-853-5926
+sally.beck@enron.com",1.0,Who were the UT faculty members invited to the Enron MBA Excellence Fund Scholarship dinner in October 2001?,"The invitees were Philip Zerrillo, Britt Freund, Dr. Ehud Ronn, Dr. George Gau, Dr. Beverly Hadaway, Dr. Linda Golden, and Eloy Garcia."
+largo,819.0,Re: Holiday Wrap Up and January Plans,"[2000-12-27 17:12:00+00:00] sally.beck@enron.com:
+Hope that Christmas with your family was fun and that your days off for 
+shopping were fruitful.  I enjoyed my week off before Christmas, but 
+certainly felt as if I worked very hard -- shopping, wrapping, baking, 
+volunteering, birthday party for Tyler on the 22nd (3 years old - not very 
+good planning to throw that into the mix each Christmas season), etc.   It is 
+nice to be back in the office this week, although I still have all of those 
+Christmas decorations to put away sometime soon!  
+
+I have tentatively planned a trip to the London office during the week of 
+January 15.  I will fly over on Sunday, so that I would have Monday through 
+Thursday in the office there.  I have blocked those days on my calendar and 
+Patti has made flight reservations for me just to hold that week open.  How 
+does that work with your schedule?  Will you be in the office that week and 
+what is your schedule like?  I certainly wouldn't occupy all of your time 
+during that week, but I wouldn't want to make the trip that week if  you 
+don't have some time available.  Let me know, and then we can firm up 
+discussions topics and agendas.  (My thought on that particular week is that 
+it gets us past year end closing issues and that I could be back in the 
+office during the week of January 22 and thereafter to communicate bonus 
+information.)  
+
+I am in the office all of this week.  --Sally
+
+---
+
+[2000-12-28 09:47:00+00:00] sally.beck@enron.com:
+I am meeting with Shona tomorrow to review the scheduling of doorstep reviews 
+for the first quarter.  As long as the New York review isn't the week of 
+January 15th, then I think I will still target that week for a London trip.  
+Don't feel as if you have to clear the whole week for me  - I know that you 
+are very busy, so I expect that we will work in time together around critical 
+things that you need to handle.  I will try to send you a list of topics that 
+I would like to cover by the end of the day tomorrow to give us a starting 
+point.  You may have some suggestions on others that I should meet with while 
+I am there.  Thanks.  --Sally",2.0,When did I tentatively plan to travel to the London office to discuss year-end closing issues and bonus information?,I tentatively planned to travel to the London office during the week of January 15.
+largo,102.0,Goals for 2000,"[2000-02-29 13:58:00+00:00] sally.beck@enron.com:
+Rick:  Sorry, I should have sent this to you several days ago.  Is the level 
+of detail correct on these goals as you look to assimilate these with 
+others?  I have stated the goals, but not the action plan to achieve the 
+goals.  I am working on those in some detail right now.   --Sally  
+
+
+
+
+
+Goals for 2000
+Global Risk Management Operations
+
+
+I.  Build/Enhance Operational and Controls Infrastructure to Support:  
+
+A.  Merchant Activities
+
+Japan
+Southern Cone
+Continental Europe
+Other regions as identified
+
+B.  Emerging Businesses/Products
+
+Enron Broadband Services
+Credit Trading
+Other products as identified
+
+C.  Joint Ventures 
+
+
+II.  Strengthen Mid and Back Office Talent and Controls for Global Risk 
+Management Operations
+
+A.  Establish common operational standards,with effective exception reporting
+
+B.   Strengthen and support the controls mindset in key operational personnel
+
+C.  Develop a plan to identify, develop and provide rotational opportunities 
+to key operations employees 
+
+D.  Continue to coordinate with IT to develop mid and back office systems 
+that allow for timely and accurate compilation of data across  systems for 
+risk and business reporting
+
+---
+
+[2000-02-29 14:10:00+00:00] sally.beck@enron.com:
+",2.0,What are the main goals for Global Risk Management Operations in 2000 regarding infrastructure and talent?,"The goals include building operational and controls infrastructure for merchant activities, emerging businesses, and joint ventures, as well as strengthening mid and back office talent through common standards, a controls mindset, rotational opportunities, and coordinated IT systems."
+largo,385.0,Request Submitted: Access Request for bob.m.hall@enron.com,"[2000-08-23 12:04:00+00:00] sally.beck@enron.com:
+Beth Perlman tells me that you are in charge on this system.  It does not 
+work.  I thought that this was going to be corrected last week.  I am 
+confused about why we are using a system that does not work.  I understand 
+that there are bugs in the system.  Was the system tested before being put 
+into production?  
+
+I tried to reach you by phone.  You were unavailable and I could not leave a 
+voice mail because that was full.  I talked with Torey Hayden and verbally 
+okayed the access for Bob Hall.  
+
+Please call me and let me know when the system will be working correctly and 
+how you are going to manage these approvals in the interim while the system 
+is not functioning.  You might at least put a contact name and number on 
+these things if you are going to continue to send these out before the system 
+is fixed.  
+
+My number is 35926.  I look forward to hearing from you on solutions and 
+timing.",1.0,What is my office phone number that I provided to the person in charge of the malfunctioning system?,My office phone number is 35926.
+largo,995.0,Re: NABA photo shoot,"[2001-02-20 14:52:00+00:00] sally.beck@enron.com:
+I am looking forward to involvement with the NABA and the prospect of hiring 
+some strong candidates.  If you want me for the photo shoot, February 23 
+looks good.  I will be out of the office on March 2nd - two days of vacation 
+on March 2 and 5 to chaperone Meagan's drill team to state competition in 
+Dallas.  With 90 girls on the team, that should be fun but exhausting!  
+
+It was great to see you and Grady last night at the rodeo.  Let's definitely 
+plan on a ball game in April as a chance to catch up.  I just checked the 
+calendar, and it looks like we are on for lunch on March 28!!  A few weeks 
+away, but at least it is on the calendar!  If your schedule were to free up 
+suddenly, just give me a call and I can see if I could change mine to have 
+lunch sooner.  --Sally",1.0,"Why will I be out of the office on March 2nd and March 5th, 2001?",I will be out of the office on those dates to chaperone Meagan's drill team to a state competition in Dallas.
+largo,1229.0,3 - URGENT - TO PREVENT LOSS OF INFORMATION,"[2001-04-19 14:35:00+00:00] outlook.team@enron.com:
+Critical Migration Information:
+
+1. Your scheduled Outlook Migration Date is THE EVENING OF : April 23rd
+2. You need to press the ""Save My Data"" button (only once) to send us your 
+pre-migration information.
+3. You must be connected to the network before you press the button.
+4. If a POP-UP BOX appears, prompting you to ""ABORT, CANCEL OR TRUST SIGNER"" 
+please  select TRUST SIGNER.
+5. Any information you Add to your Personal Address Book, Journal or calendar 
+after you click on the button will need to be manually re-added into Outlook 
+after you have been migrated.
+6. Clicking this button does not complete your migration to Outlook. Your 
+migration will be completed  the evening of your migration date.
+
+
+
+    Failure to click on the button means you WILL NOT get your Calendar, 
+Contacts, Journal and ToDo information imported into Outlook the day of your 
+migration and could result in up to a 2 week delay to restore this 
+information.
+
+If you encounter any errors please contact the resolution center @ 
+713-853-1411",1.0,What is my scheduled Outlook migration date according to the notification from the Outlook team?,My scheduled Outlook migration date is the evening of April 23rd.
+largo,438.0,"Re: Broadcast - #42c1 - ISC Training and Communication Services
+ Team - Staff Meeting (29 Sept 08:30 AM CDT)","[2000-09-19 12:56:00+00:00] patti.thompson@enron.com:
+Margarite,
+
+Did you intend this to go to Sally Beck - VP, Energy Operations?  If not, 
+then this is starting to get a little old.
+
+Please call me at x39106.
+
+Patti 
+
+
+
+
+	Invitation
+Chairperson: Andrew Lawrence
+Sent by: Margarite Cunningham
+
+Start: 09/29/2000 08:30 AM
+End: 09/29/2000 09:30 AM
+
+Description: #42c1 - ISC Training and Communication Services Team - Staff 
+Meeting
+
+
+
+
+This meeting repeats every 2nd week on Friday starting on 09/29/2000 until 
+12/29/2000.
+Meeting Dates: 09/29/2000, 10/13/2000, 10/27/2000, 11/10/2000, 11/24/2000, 
+12/08/2000, 12/22/2000
+
+
+
+Eddie Lamp/Corp/Enron
+Michael Desbiens/Corp/Enron
+Sally Beck/HOU/ECT
+Jon Cashion/Corp/Enron
+Paul Jennings/Corp/Enron
+Caron Stark/Corp/Enron
+Gigi Hall/Corp/Enron
+Belinda Luna/Corp/Enron
+Crystal Chambers/Corp/Enron
+Sylvia Martinez/HR/Corp/Enron
+Margarite Cunningham/Corp/Enron
+
+Detailed description:
+This staff meeting will start Friday, September 29th and run every other week 
+until the end of December.  It will be in the same conference room each 
+time.  Conference room #42c1.
+
+Agenda:
+Review Open Remedy Cases
+Project development update
+What's happening with our ""Maximize"" efforts
+What's happening with our ""Extend"" efforts
+Individual updates (In a short 3 minute ""turbo-update"" style, share with the 
+team your current projects, and/or deliverables, due dates, and what you need 
+help with.)
+On-going (Mid-Year/Year-end) Performance Planning
+Wrap up:  ""The one thing that keeps me up at night is...""",1.0,"What is the frequency and the location of the ISC Training and Communication Services Team staff meetings starting September 29, 2000?",The meetings occur every second week on Friday in conference room #42c1.
+largo,28.0,"Thanks for January 1, 2000","[1999-12-30 15:42:00+00:00] sally.beck@enron.com:
+I wanted to extend my thanks in advance to all of you who will join me in the 
+office on January 1, 2000.  I appreciate your willingness to devote part of 
+your holiday weekend to the continuing success story at Enron.  
+
+As a company, Enron has spent much time and effort to ensure that business 
+will continue smoothly as we move into the year 2000.  Ken Walther, in 
+working with many of you, has done an excellent job of preparing a work plan 
+for January 1.    Your  work on the first  will be the final step in this 
+process.  Your efforts that day will allow all ENA employees to return to the 
+office on January 4th with confidence in our ability to continue business as 
+usual.  
+
+I wish each one of you a happy new year.  I continually feel privileged to 
+work with this dedicated and talented group of  employees.  I look forward to 
+all that we will accomplish in 2000.
+
+---
+
+[2000-01-05 13:25:00+00:00] sally.beck@enron.com:
+The address list on the memo below contains the names of all ENA Energy 
+Operations employees who worked in the offices in Houston, Denver and Calgary 
+on January 1st to test our systems.   Does it work for you to copy and paste 
+this for Cliff's note?  Let me know if it would be better to provide this to 
+you in a different way.  Thanks.  --Sally",2.0,"Which cities had ENA Energy Operations employees working on January 1st, 2000, to test systems?","The employees were working in the offices in Houston, Denver, and Calgary."
+largo,980.0,Re: EnTelligence Training,"[2001-02-05 15:08:00+00:00] sally.beck@enron.com:
+Have you seen the training tools that Avril uses for such things?  --Sally
+
+---
+
+[2001-02-06 15:33:00+00:00] sally.beck@enron.com:
+FYI - I will meet with James on Friday when he is back from London to go over 
+the change in reporting for him.  I gave his review the end of last week, but 
+didn't get to review the reporting change.  I will ask Patti to let you know 
+when I am meeting with James on Friday.  Wanted you to be in the loop on this 
+- particularly when we are getting in front of commercial guys, I want this 
+to be well done.  The training may be great - I just wanted to make sure that 
+James knew about Avril's trip and that he was aware of the content and 
+delivery on the training.  Looks like he still has some homework to do.  
+--Sally
+
+---
+
+[2001-02-06 19:25:00+00:00] sally.beck@enron.com:
+Entelligence is being used in Houston, so they must have done training here.  
+
+Patti is setting up my meeting with James for Friday.  I just left her a 
+message and asked her to let you know the time that is scheduled for - plus I 
+will leave you a message after I have talked with him.  I hope to have that 
+meeting with James at 10:30.  
+
+Interruptions have been rampant - and I am still not finished with reviews.  
+Shona will actually be in Calgary at the same time that I will be, so we will 
+do her review on the plane, in the airport or at the hotel - and I will tell 
+her about the reorg.  Again, I will leave you a message to let you know that 
+we have had that conversation.  
+
+That's great to have dinner with Lou.  I think that it would be good to find 
+out from him what sort of interaction he has with the London office, what's 
+working, what's not working - in an informal way.  Are they on an Enron 
+network?  Do they get Enron e:mails?  How often does Lou go to London or 
+someone from London mid office come to New York?  I still suspect that New 
+York is somewhat neglected just because of the distance between London and 
+New York and the fact that there seems to be plenty for Mike and his team to 
+chew on in London.  Particularly now with a renewed focus on the scrap metal 
+business.  
+
+Enrjoy the OpRisk Conference.  They tend to be heavily attended by bankers 
+and there focus is that direction as well, but there is a lot that we can 
+glean from what they are doing.  It snowed there a lot yesterday.  Of course, 
+according to Peggy Hedstrom, it is 0 degrees (daytime temp reading) and snowy 
+in Calgary.  
+
+I look forward to seeing you in Dallas.  --Sally",3.0,"What time did I hope to have my meeting with James on Friday, February 9th, 2001?",I hoped to have that meeting with James at 10:30.
+largo,1640.0,FW: Suggestions to help short term morale,"[2001-10-24 13:57:57+00:00] robert.superty@enron.com:
+Sally, some thoughts/ideas that I thought about after your meeting.  
+
+Lets promote the positive - some very exciting things are happening such as the move to the new building, lets make sure we get the PR out there to talk about the new features, move in plans, etc. I know security is tight but how about a mini open house. At this point it would do us good to go beyond the ""Building Guy"". I know I get excited whenever I'm over there. 
+
+Things like vendors in the lobby to push new technology etc. I believe it's important to keep that almost ""electric"" atmosphere that surrounds the company. Lets show our employees that our outside business relationships are as strong as ever and our vendors/business partners still view Enron as someone they are eager to continue doing business with. I always get charged up when the lobby is full of activity. Keeps the pulse of Enron at a high level. Get some fun things out there, things the employees can purchase, electronic devices are always attractive. Work out a decent discount to make it exciting. Give it a holiday twist. Even if it costs us a few bucks to make that happen might be worth it. 
+
+Make a push to host more industry meetings (GISB is one that I can help with). Lets get our counterparties in here and let them know nothing has changed. We can include mini tours of the new building to get the word back on the street about how we might be down but boy are we poised to grow, grow and grow some more. 
+
+I mentioned to you that I believe it's important for the Executive team to show up often to reassure our employees that yes there are real, caring people running this company. Maybe some impromptu floor meetings to talk about recent events. Let them feel like there is a real connection. Make it personal and regular. 
+
+Thanks for listening, the sense from my group has been okay. Lots of concerns but nobody running out the door at this point. I'll keep you posted. 
+
+
+Bob Superty
+
+---
+
+[2001-10-24 14:21:59+00:00] sally.beck@enron.com:
+I am forwarding this message to you sent to me by Bob Superty.  Bob is the director of Gas Logistics for Enron Americas, and attended the lunch meeting that I held yesterday.  I asked all in attendance to let me know if they had ideas on things that could be done to improve employee morale.  I can always count on Bob to give thoughtful consideration to this type of request.  Here are his ideas.  Some of these I can orchestrate for my operations team and the broader Enron Net Works employee base.  Some of these suggestions could impact a broader base of employees.  I would be happy to lead any or all of these efforts on an Enron-wide basis is you think that would be appropriate.  I could certainly use some help, however.  
+
+You may already have a venue for this, but maybe it would be a good idea to put together a small team of interested individuals (like Bob Superty) who could make suggestions in the short run on ideas that could improve employee morale.  Not a formalized committee, and not even one that would have to be announced or publicized.  Just an ad hoc group to make a difference now.  Maybe this doesn't have to be corporate wide.  Maybe each business unit could put together an ad hoc group, if they feel that it is appropriate for their business unit, and maybe these various ad hoc groups could just share ideas.  This might be even more effective with buy-in and initiative from the business units, rather than the feel of a corporate overlay.  As I am typing, I am thinking that maybe we will pilot this in Enron Net Works and simply share what we are doing with others.  
+
+Your thoughts?  --Sally",2.0,"What specific suggestions did Bob Superty make to improve employee morale at Enron following our lunch meeting on October 23, 2001?","Bob suggested promoting positive news like the move to the new building, hosting a mini open house, having vendors in the lobby to showcase technology, offering employee discounts on electronic devices, hosting more industry meetings like GISB, and having the Executive team hold regular, impromptu floor meetings to connect with employees."
+largo,773.0,Re: Enpower,"[2000-11-29 08:54:00+00:00] fernley.dyson@enron.com:
+Just a heads-up - a long-winded email, but please see highlighted paragraphs. 
+I find it hard to believe the scenario portrayed here, but stranger things 
+have happened - will keep you posted.
+
+---
+
+[2000-12-11 11:00:00+00:00] sally.beck@enron.com:
+In cleaning up e:mails, I ran across this one that I had not yet read.  Has 
+James called and talke with you about Enpower?  Are his concerns in the memo 
+accurate?  Let me know.  --Sally
+
+---
+
+[2000-12-13 10:01:00+00:00] stacey.white@enron.com:
+I have not personally talked to James about these issues in Enpower.  His 
+concerns regarding swaptions and asian options are accurate.  IT is currently 
+working on new volatility curves for swaptions to use.  IT is also working on 
+correlations in order for asian options to be valued properly.  London trades 
+many more swaptions and asian options than the US; therefore, the impact of 
+not having swaption volatility curves and correlations is greater to them.  
+The majority of options in the U.S. are European monthly and daily exercises 
+and the current volatility curves adequately take care of these deals.  The 
+idea of swaption volatility curves has floated around in the US, but other 
+more material items always got in the way and we continue to use the deal 
+specific volatilities for the swaptions we do have.  Once the technology is 
+in place to use swaption volatilities we will also adopt.   The system was 
+originally built to handle the physical power world that existed in the US 
+and as new markets and new ideas (such as the US becoming more and more of a 
+financial market) we will need to enhance Enpower to follow suit.  Swaption 
+vols and asian options are two of these enhancements. 
+
+Also, it is difficult to get option data out of Enpower.  We have in stage an 
+option sensitivity matrix that, once implemented into production. I will be 
+sure that James knows about.  It probably will not solve all his problems, 
+but it will give him a starting place.
+
+Stacey
+
+
+   
+	Enron North America Corp.",3.0,What are the specific technical issues Stacey White identified regarding the Enpower system's handling of swaptions and asian options?,"Stacey noted that IT is currently working on new volatility curves for swaptions and correlations for asian options to ensure they are valued properly, as the current system was originally built for physical power and lacks these specific financial market enhancements."
+largo,435.0,Compensation Analysis,"[2000-09-13 16:55:00+00:00] sally.beck@enron.com:
+I have asked ENA's Compensation team within HR to conduct a compensation 
+study for me for all positions from Manager level through Vice President.  
+This analysis will include employees who are dedicated to ENA, EIM and EGM.
+
+It had been the plan to complete our compensation analysis by focusing on the 
+Manager level and above, following the market analysis for Senior Specialists 
+and below that was completed by Yvonne Land.  I learned recently that Yvonne 
+has left the Company and that she had not begun the analysis for Managers and 
+above.
+
+Todd Burke, who recently joined Enron, will be conducting the market survey 
+and compensation analysis.  I met with Todd recently.  He has had wonderful 
+experience with Towers Perin and Watson Wyatt, and I feel that we are 
+fortunate to have him devoted to this project.  Please give sufficient 
+thought and attention to requests from Todd.  The quality and timeliness of 
+your responses will directly impact the quality and timeliness of the 
+analysis that I will receive from Todd.  I think that you should each have a 
+vested interest in the success of this project!
+
+Todd also plans to resurvey market information for Senior Specialists and 
+below so that his view of compensation will be complete and timely for all of 
+Energy Operations.  Since we recently took action on compensation levels for 
+key players at the Senior Specialist level and below, I would not anticipate 
+further adjustments for those levels as a result of Todd's review.
+
+You should receive a message from Todd in the next day or so in which he will 
+detail steps in the compensation analysis and what your role will be.
+
+Sally",1.0,"Who is the individual responsible for conducting the new market survey and compensation analysis for Manager level positions and above at ENA, EIM, and EGM?",Todd Burke is the individual responsible for conducting the market survey and compensation analysis for those positions.
+largo,2213.0,DPR reporting for 22nd trading due today - request by Fallon,"[2002-01-24 17:28:53+00:00] chris.abel@enron.com:
+Fallon has requested a DPR be prepared 2X a week for positions that we are executing on (active/live positions only, no terminations or deals we are not executing on).  We have put together the shell of how this DPR will look.  To start this process we are planning to present to him positions (column E) and PRM value (column X) as of 1/23.  To do this, we have laid out the following steps:
+ 
+- we need to get the PRM values directly from you (column X)
+- we will run the benchmarks and need to work with you to ensure you are happy with the benchmark numbers we have pulled from RMS (the exception is gas, we need the gas risk group to provide the gas bench to us)
+- we need all of then exceptions/qualifications to your numbers
+- we will need the other information in the schedule to be reported to us starting next week, but not for this exercise
+ 
+Please confirm to me/Shona that you can get us this info by 230 pm today.
+ 
+Lastly, I am attaching the unofficialized book list as these books will not make it into the benchmarks and need you to confirm that there are no 3rd party positions in these books.
+ 
+Thanks in advance
+
+Chris Abel 
+Manager, Risk Controls 
+Global Risk Operations 
+chris.abel@enron.com <mailto:chris.abel@enron.com> 
+713.853.3102",1.0,"What specific information does Chris Abel need from me by 2:30 p.m. on January 24, 2002, to prepare the bi-weekly DPR for active positions?",Chris needs the PRM values (column X) for the positions and confirmation that I am satisfied with the benchmark numbers pulled from RMS.
+largo,821.0,Re: ENA RMT Confirmations,"[2000-12-28 10:01:00+00:00] sally.beck@enron.com:
+Kim, do you have an estimated completion date for the commodities where the 
+notation is that information is being compiled?  My guess would be that the 
+one commodity that is up-to-date (financial power) is the one with the lowest 
+number of transactions.  That means that the lion's share of the work is 
+still to be done.  Are we staffed to get this completed in a timely manner?  
+As I mentioned to you before, I would not hesitate enlisting Jeff Sorenson to 
+do much of catch up work if we are short on people to get this done 
+promptly.  Let me know if you need his help, and I will visit with Brent 
+Price.  I know that Brent would support Jeff's involvement to get his caught 
+up.  
+
+Who specifically will be responsible on an on-going basis to handle for the 
+RMT Confirmations?   Will we have some sort of report that we can send to 
+Stephen each month that will indicate the completion of this task so that he 
+is comfortable on an on-going basis that this is being kept up-to-date?  
+--Sally
+
+---
+
+[2000-12-28 10:18:00+00:00] sally.beck@enron.com:
+I saw Kim's response to Stephen Douglas, but it left me short of comfort on a 
+completion timeline or enough details around assurance on an on-going basis 
+that this will be kept up.  I sent the note below to Kim.  I am sure that she 
+manages well, but I think that we should encourage her to step into full 
+responsibility and to be able to effectively communicate that within the 
+organization.   It is likely that when Stephen reads her note, that he will 
+call me and tell me that he still doesn't know when this task will be 
+completed.  That was his concern yesterday, and Kim's note really doesn't 
+address that.  If she doesn't have an estimated completion date, then she 
+should set a target date for having all of the info compiled and state that 
+at that date she will be able to create a realistic timeline for completing 
+the task.",2.0,What is my proposed plan to ensure the RMT Confirmations are completed promptly if we are currently short-staffed?,I proposed enlisting Jeff Sorenson to help with the catch-up work and mentioned I would speak with Brent Price to secure his support for Jeff's involvement.
+largo,2087.0,Sent on behalf of Mark E. Haedicke,"[2002-01-09 22:50:28+00:00] esmeralda.gonzalez@enron.com:
+Respond by January 10, 2002 and no later than 4:00 p.m.
+
+Enron North America Corp. and  Enron Net Works LLC are circulating this Questionnaire to their directors and officers to develop and verify information that will be used in connection with the proposed sale of all the business of wholesale trading of natural gas and electricity with customers in North America. In a nutshell, we need to disclose any transactions between you and Enron Corp., Enron North America Corp. or Enron Net Works relating to the trading business since September 30, 1999.
+
+We expect to be in position to sign the purchase documents upon completion of the auction scheduled for Thursday, January 10, 2002.  Unfortunately, that means we need your responses to the questionnaire as soon as possible, and in no event later than 4:00 p.m. of January 10, 2002.
+
+ 
+Regards,
+
+Mark E. Haedicke",1.0,What is the deadline and purpose of the questionnaire being circulated by Mark E. Haedicke to Enron North America and Enron Net Works directors and officers?,"The questionnaire must be completed by 4:00 p.m. on January 10, 2002, to disclose any transactions between the recipients and Enron related to the trading business since September 30, 1999, in connection with the proposed sale of the wholesale trading business."
+largo,2042.0,REMINDER  - EGM Organizational Post Petition Meeting,"[2002-01-04 21:18:20+00:00] judy.zoch@enron.com:
+Just a reminder that the EGM Organizational Post Petition meeting will take place on Monday, January 7th at 9:00 am in conference room ECN 30C1.  
+
+
+	Domestic Callers 
+	Dial 1-877-987-1409  Operator will assist with the call 
+	Leaders Name:  Gary Hickerson
+	Pass Code:  Gary
+
+	International Participants
+	Dial 001-630-395-0119	Operator will assist with the call
+	Leaders Name:  Gary Hickerson
+	Pass Code:  Gary
+
+LONDON EMPLOYEES ONLY:  Please meet in conference room SE1002 (tele# 011-44-207-783-0113) and dial into the meeting using the number above.  If you have any questions, please call Kathy Tibbs in London on ext. 5479.
+
+Also, I have attached an updated Contact List.  Thank you.
+
+ 
+
+Judy Zoch
+Enron Global Markets LLC
+Financial Trading
+1400 Smith
+Houston, TX  77002
+(713) 853-0655
+email:  judy.zoch@enron.com",1.0,When and where is the EGM Organizational Post Petition meeting scheduled to take place?,"The meeting is scheduled for Monday, January 7th, at 9:00 am in conference room ECN 30C1."
+largo,1141.0,Re: Costs,"[2001-04-04 19:08:00+00:00] sally.beck@enron.com:
+Rahil is working with me on a presentation that covers what our services are, 
+the creation of a pricing desk, how that will work (process and revenue 
+sharing), selling of services for others, our operations pricing model, the 
+DASH process, key contacts in operations, etc.  I expect to review a draft by 
+this Friday.  Tomorrow we will have the date set for such a meeting.  We are 
+checking travel schedules for Laura Luce and Max Y. to see if we can catch 
+both in Houston sometime next week.  Greg Piper suggests a meeting with all 
+origination heads at once (a mini offsite).  We will do that if we can set a 
+date that works for a majority.  If that doesn't work, we will simply do 
+one-on-ones over the next ten days to get everyone.  Targeted attendees are:
+
+Gas   Frank Vickers (East)
+   Laura Luce (Central)
+   Barry Tycholiz (West)
+
+Derivatives  Fred LaGrasta
+
+Power  Dave Duran
+   Ozzie Pagan
+   Ed Baughman
+   Bruce Shuckley 
+
+Portland  Chris Calger
+
+Calgary  Ladain
+
+Mexico  Max Y. 
+
+When you and I met we discussed most of these names.  I added the Calgary guy 
+and Max.  I also want to share this info with Bob Shults and his EOL 
+marketing team.  They talk with a lot of customers and may have the 
+opportunity to bring up our services as well.  We have spent some time with 
+Jean Mrha and John Grass, and will share the presentation with them as well.  
+
+Do you want to add any names?   If we do wind up with one date that will work 
+for most, I will let you know that tomorrow so that you can attend if you 
+would like.  --Sally",1.0,Who are the targeted attendees for the upcoming presentation meeting regarding Enron services and the DASH process?,"The targeted attendees are Frank Vickers, Laura Luce, Barry Tycholiz, Fred LaGrasta, Dave Duran, Ozzie Pagan, Ed Baughman, Bruce Shuckley, Chris Calger, Ladain, and Max Y."
+largo,1961.0,RE: 19 Month Forecast Review,"[2001-12-17 21:14:52+00:00] s..galvan@enron.com:
+Please see the attached file for your respective area (by your last name) and make sure you're comfortable with your latest forecast numbers (excluding salaries).  I have added a Capex section for any groups that will plan on spending capital dollars.  Please be as detailed as possible.  
+
+Assume forecast dollars are only reflective of the estate.  For those ENW groups likely to have resources moving to NETCo, please include those forecast dollars in the ""NETCo"" tab.  E.g., If we need a total picture of Jenny's spend, we'll add the ""Rub"" tab (estate) with the ""NETCo"" tab Jenny submits.  
+
+Jenny/Beth P.,
+A license / maintenance renewal schedule was obtained from GSS.  We put together a summary tab called ""Lic-Main Breakout"".  These dollars are reflected in your respective forecasts.  Please review for completeness and ensure we are not double counting any dollars already included by your folks.
+
+Please confirm your respective numbers and reflect any changes you know of by end of day today.  
+
+Thanks,
+Mike
+
+---
+
+[2001-12-17 21:24:21+00:00] beth.perlman@enron.com:
+Mike,
+
+We want to cancel the Netegrity contract and are looking at the Interwoven licenses to see if we can cancel them as well.
+
+Thanks,
+Beth",2.0,"What is the deadline for confirming forecast numbers and reflecting changes for the respective areas, including the new Capex section?","The deadline for confirming the numbers and reflecting any changes is the end of the day on December 17, 2001."
+largo,2073.0,Promotion Nominee Preparation,"[2002-01-08 23:10:11+00:00] louise.kitchen@enron.com:
+There is a potential that counterparties will allow us to promote a small group of individuals simultaneous to deal closure.  To facilitate that process, please provide a list of those individuals you would like to promote along with a brief explanation to your HR generalist no later than 12:00 pm on Thursday, January 10, 2002.
+
+Please keep in mind that the nominee should have been in his or her current role for at least a year and received a 3 or better rating during the mid-year PRC process. 
+
+Listed below are your HR contacts.
+
+Gas Trading and Gas Origination					Jeanie Slone
+Power Trading and Origination/EOL				Amy FitzPatrick
+Tax/Accounting/Legal/Credit/Treasury/IT Infrastructure		Sarah Zarkowsky
+IT Development							Mandy Curless
+GRA/Weather							Anne Labbe
+Settlements/Risk/Volume Management/Document/Energy Ops	Tana Cashion
+
+Your HR representative will be contacting you in the next day to review your employee lists as well as discuss any promotions.",1.0,What are the specific criteria and the deadline for submitting a list of individuals for promotion to HR generalists?,"The nominee must have been in their current role for at least a year and received a 3 or better rating during the mid-year PRC process, with a submission deadline of 12:00 pm on Thursday, January 10, 2002."
+largo,383.0,Re: fashion show,"[2000-08-23 11:32:00+00:00] sally.beck@enron.com:
+Yes, Harold Powell is providing the clothes for the show.  Beverly Scott, 
+with Harold Powell, is coordinating and commentating.  She offered to call 
+all the girls to set times for them to come in and choose outfits.  I was 
+planning to do that as a go-between, but when she offered to coordinate that 
+I decided to take her up on it.  She just moved her daughter back to Baylor, 
+so she was to begin calling the girls on Monday this week (I had given her a 
+list of names and numbers).  I talked with Linda Smithey this morning and she 
+had not heard from Beverly yet, either, so I am concerned that she hasn't 
+called everyone on the list.  I took Meagan in on Monday night to choose 
+outfits, and Beverly had some great ideas on music, commentary, etc., so I 
+know that she is working on it.  Just a little more slowly than I would 
+like!  
+
+I have a call in to her to see if I need to take some time from work today 
+and make calls.  Why don't you call Beverly directly today and just 
+coordinate a time for Jenny to go by.  Her number at work is 281-444-0751.",1.0,"What is the phone number for Beverly Scott, who is coordinating the outfit selection for the show?",Beverly Scott's work phone number is 281-444-0751.
+largo,396.0,Re: anniversary,"[2000-08-25 12:19:00+00:00] sally.beck@enron.com:
+Not too mountainous, but I am sure that would be fun.  It's kind of hard to 
+fly to Bermuda from Texas.  Easy from New York, but not that much traffic 
+between Houston/Austin and there.  A few years ago when we went with David's 
+family to Yellowstone, we were able to get a great deal through Continental 
+through their group rate department. That works when you travel with a group 
+of 10 or more, all on the same itinerary.  I think that our round trip from 
+Salt Lake to Houston was $235 each.  Hopefully we could arrange something 
+like that.   If airfare is more like $1,000 between here and Bermuda, that 
+could be tough.  
+
+Should we pin them down on an exact location, maybe have them pick two or 
+three and rank them?  Then we could check on accomodations, airfare, deals, 
+etc. to see what would be most feasible.  Or should we research a few places 
+and present those choices for them to consider?  What do you think?  Seems 
+like there will be 13 of us, counting baby White/Lowrimore.  And what do you 
+and Cara envision -- a weekend, a few days, a week?  Our kids will get out of 
+school on Friday, May 25.  The 2nd of June is that following Saturday.  
+
+We are having a great year here at Enron, especially in the business unit 
+that I am in.  Hopefully, that translates to really great bonuses in early 
+February.  I hope to be in a position to fund airfare and hotel for 
+everyone.",1.0,"When do the children get out of school, which is a factor in planning the group trip?","The children get out of school on Friday, May 25."
+largo,1714.0,Follow-up from the Houston CEO Diversity Roundtable,"[2001-10-31 00:27:07+00:00] andrea.yowman@enron.com:
+Sally, 
+I am currently working with Cindy Olson and Kelly Kimberly in the diversity area, of which Ken Lay has asked to put renewed emphasis on.  Mr. Lay participates in the Houston CEO Diversity Roundtable, which consist of 10 of Houston's largest corporations.  On October 16th Cindy, Kelly and I met with Gerald Smith of Smith Graham & Company, Robert Carter of The Enterprise Group and Willie Alexander of W.J. Alexander & Associates as a follow-up to a recent meeting Mr. Lay and Cindy attended.  These gentlemen represent a coalition of 13 Houston relatively large minority professional services firms who are looking to bring additional value to Enron and expand their footprint in some of the larger Houston area companies.  According to Cindy, the goal is for Enron to be a pilot in utilizing some of these professional services firms.  My plan is to conduct due diligence on these organzations prior to making formal recommendations to the Management Committee.  
+
+The purpose of this note is to seek your assistance in scheduling some time with you and Robert Carter of The Enterprise Group to identify opportunities to provide support services.  Cindy Olson ask that I set this meeting up with you asap.  Mr. Carter currently does business with Enron and I would be interested in getting feedback on the services The Enterprise Group currently provides.  I have requested the following from Mr. Carter: meeting objective, agenda, amount of time needed, attendees and options on dates and time.   If you schedule permits please have your assistant coordinate this meeting with JoAnn Matson, my assistant.  Thanks for your help... Andrea
+
+List below is his response. 
+
+Meeting Objective: Identify opportunities for ESC to provide business
+process support services to Enron Wholesale
+
+Agenda:
+
+*	Overview of ESC Capabilities (ESC)
+
+*	Discussion of EWS's Business Process Support Needs (Enron-EWS)
+*	Explanation of Enron's Initiative to Increase the Use of Minority
+Professional Services Firms (Enron-Andrea Yowman)
+*	Plan of Action (Group)
+
+
+Amount of time needed: 60 minutes
+Attendees: Paul Kleinen and Robert Carter, Enterprise Services Company
+Options on date and time: Monday,Nov. 5th thru Friday,Nov.9th, AM or PM. If
+neither of these dates work for you and Sally, please
+provide us with your available dates and we will make it happen.
+
+
+
+ 
+
+  
+
+**********************************************************************
+This e-mail is the property of Enron Corp. and/or its relevant affiliate and
+may contain confidential and privileged material for the sole use of the
+intended recipient (s). Any review, use, distribution or disclosure by
+others is strictly prohibited. If you are not the intended recipient (or
+authorized to receive for the recipient), please contact the sender or reply
+to Enron Corp. at enron.messaging.administration@enron.com and delete all
+copies of the message. This e-mail (and any attachments hereto) are not
+intended to be an offer (or an acceptance) and do not create or evidence a
+binding and enforceable contract between Enron Corp. (or any of its
+affiliates) and the intended recipient or any other party, and may not be
+relied on by anyone as the basis of a contract by estoppel or otherwise.
+Thank you.
+**********************************************************************",1.0,What is the objective of the meeting requested by Robert Carter of Enterprise Services Company with Enron Wholesale?,The objective is to identify opportunities for ESC to provide business process support services to Enron Wholesale.
+largo,2013.0,FW: Weather and Crude,"[2002-01-02 16:56:11+00:00] sally.beck@enron.com:
+The list of proposed Netco employees that Amy Fitzpatrick provided to me at your request included tabs for Weather and Crude.  Do you contemplate that Netco would trade those commodities/products?  Bob Hall's team that he has assembled for Netco does not include anyone with either Weather or Crude operations experience.  
+
+We retained two top-notch operations individuals - Todd Hall and Kevin Sweeney - who at this time are not on the list for Netco.  Both have extensive risk management experience and both have also managed all aspects of trading operations - documentation, risk books and settlements.  Todd and Kevin each are good managers and they are working managers who know how to execute the details.
+
+Todd has most recently been in charge of all aspects of operations for Weather.  Prior to has role in EGM, Todd created the MPR and supported all daily activities around valuing the assets in that portfolio.  He also has had extensive experience in gas risk management.   
+
+Sweeney's most recent assignment has been to manage operations for EIM.  The bulk of his Enron experience has been in crude and crude products.  He was part of the original team that opened the Singapore trading office and has experience in the UK as well.  
+
+If you anticipate dealing in commodities outside gas and power, Todd and Kevin would both be great players to have on the Netco team.  
+
+Let's discuss.  --Sally
+
+---
+
+[2002-01-02 17:06:38+00:00] sally.beck@enron.com:
+There are 3 excellent players whom I would draft onto any team that have not been picked up on the Netco list.  
+
+Two of the three are Todd Hall and Kevin Sweeney - details below in my e-mail to Louise.  
+
+Another excellent player is Shona Wilson.  She currently leads the group that produces the DPR and the MPR.  She had excellent experience with PWC before joining Enron, auditing trading companies in Europe.  I have some thoughts on the value that she could bring in working with a new owner of the business.  She could be instrumental in blending our risk reporting process with another entity.  
+
+I am not sure about the extent of your involvement with the creation of Netco.  If you do anticipate being involved, I would like to talk with you about these individuals and the roles that they could play in creating the best team for Netco.  --Sally",2.0,Which three individuals does Sally Beck recommend for the Netco team due to their extensive operations and risk management experience?,"Sally Beck recommends Todd Hall, Kevin Sweeney, and Shona Wilson."
+largo,868.0,Re: Update,"[2001-01-12 22:03:00+00:00] sally.beck@enron.com:
+I will be thinking about you and Brenda over the weekend and know that you 
+will both be glad for her to return home.  I have mentioned to you before, 
+Hector, that an Enron friend has dealt with a brain tumor successfully.  That 
+is Barbara Gray, an attorney in ENA's Legal Department.  Barbara counsels 
+patients and their families who are facing situations similar to hers.  If 
+you feel like you would like to talk with someone who can understand on a 
+more firsthand basis what you and Brenda are facing, I would encourage you to 
+contact Barbara.  In addition to having been through her own battle with a 
+brain tumor, she is simply a wonderful person whom I know you would enjoy 
+meeting.  I have mentioned your situation to her, and she would certainly 
+welcome a conversation with you.  
+
+I will be in the London office next week, so we will have to coordinate on 
+merit increases from there.  I will be back in the office on Monday, January 
+22.  -Sally  
+
+
+   
+	Enron North America Corp.",1.0,When will I be back in the office after my trip to the London office in January 2001?,"I will be back in the office on Monday, January 22."
+largo,943.0,Re: the latest . . .,"[2001-01-30 10:31:00+00:00] sally.beck@enron.com:
+Just checked with Richmond Hill Inn in Asheville and they are open over 
+Thanksgiving.  Not filled yet for that time period.  They are sending me a 
+brochure.  Only potential draw back there is that most of their rooms have 
+only king size beds and sleep two persons.  There are 2 rooms that have two 
+beds, and two cottages that have sleeper sofas.  They do have baby beds.  
+Families of 2 or 3 can be accomodated fine.  I would probably take two rooms, 
+one for the girls and one for Tyler, David and me.  But we would probably do 
+that in New York or San Francisco, too.  As we all know, five is almost too 
+many in one room and bathroom.  
+
+I think that dinner in Austin on June 2 and a trip at Thanksgiving sounds 
+like a good plan.  Do you guys want to cover that with Mom and Dad and ask 
+about the San Antonio/Sun City crowd?
+
+---
+
+[2001-01-30 10:36:00+00:00] sally.beck@enron.com:
+Not sure that this reached you the first time.  My address was flawed.",2.0,What are the potential drawbacks of staying at the Richmond Hill Inn in Asheville for Thanksgiving?,"Most of their rooms have only king-size beds and sleep two people, which makes it difficult to accommodate a group of five."
+largo,1519.0,FW: In the spirit of cooperation...,"[2001-10-01 23:26:37+00:00] sally.beck@enron.com:
+John is keeping us updated on Unify production problems, which unfortunatel=
+y occur rather frequently.  When he cited the reason for performance issues=
+ in his orginal e-mail message below, I asked him whether or not the Unify =
+team was aware ahead of time that the server resynchronization was being ha=
+ndled during normal business hours.  Here is his response.  I bring this to=
+ your attention not to create an issue, but rather to solve one.  I know th=
+at everyone is incredibly busy, but with so many interdepencies here we hav=
+e to stay closely coordinated.  I know that EOL has a dedicated member of y=
+our team who is always on point and knowledgeable about infrastructure issu=
+es that could or do touch EOL.  Is there anyone assigned from your team for=
+ a similar role with our critical operating systems?  Because of nomination=
+ deadlines and the exchange of information with external parties for Unify,=
+ it can create real exposure (dollar exposure and PR exposure) if Unify's p=
+erformance is impaired.  Let me know if you can assign someone from the inf=
+rastructure team that can wear the responsiblity of staying in step with Un=
+ify.  Thanks.  --Sally=20
+
+---
+
+[2001-10-01 23:27:51+00:00] sally.beck@enron.com:
+FYI -Sally=20",2.0,Why am I concerned about the performance issues of the Unify system?,"Because of nomination deadlines and the exchange of information with external parties, poor performance creates real dollar and PR exposure."
+largo,410.0,ERMS Resources,"[2000-08-28 18:48:00+00:00] sally.beck@enron.com:
+I heard today that Curtis Smith has resigned.  I am sure that both ot you 
+know that Curtis and Jeremy Wong were viewed by users as critical resources 
+for ERMS support.  Even at a stand still, my team had great concern over the 
+rumored loss of Curtis and/or Jeremy.  And with the assumption that Sitara 
+will not go forward for valuation, then ERMS really has become repositioned 
+as one of our key, strategic systems.  There is much to do to ""catch up"", if 
+you will, with changes and enhancements that were put on hold for several 
+years during the Sitara development stage.  And our business continues to 
+grow and change rapidly, requiring responsive enhancements on an on-going 
+basis.   
+
+I would like to get together to discuss the staffing plan for support of ERMS 
+as soon as possible.   We need to understand how day-to-day production 
+support will be managed and how development work will be effectively 
+handled.  
+
+I will ask my assistant to set up a meeting as soon as possible.
+
+---
+
+[2000-08-28 18:49:00+00:00] sally.beck@enron.com:
+Please set up a meeting with Steve and Beth as soon as we can.  I believe 
+that Beth is out sick at the present.",2.0,Why do I want to meet with Steve and Beth regarding the ERMS system?,"I want to discuss the staffing plan for ERMS support, specifically how day-to-day production support and development work will be managed following the resignation of Curtis Smith."
+largo,719.0,EOL Average Deal Count as of 12-6-00,"[2000-12-07 17:57:00+00:00] peter.berzins@enron.com:
+Changes to the Report Starting this Week:
+
+-   The Financial Desk in North American Gas only shows values without 
+exchange traded future transactions.
+
+
+Notes for this Week's Report:
+
+*   North American Gas has already increased its overall average daily EOL 
+deal count by almost 1,000 trades a day since November.  There are now 
+approximately 4,040 trades a day in North American Gas alone which are being 
+traded on EOL.
+
+*  The Financial Desk in North American Gas has increased its average daily 
+EOL deal count by about 45% since October, from 494 to 714 deals per day in 
+November.  In December, the average daily EOL deal count is up another 60%, 
+from 714 to 1,141 deals per day.  In addition, the average daily EOL volume 
+has increased significantly as well.
+
+* US Power has increased its average daily EOL volume by 100% since 
+November.  The average daily EOL Deal Count has increased slightly as well.
+
+*  Midwest, Southeast, and Northeast Power has increased its average daily 
+EOL volume by about 100% since November.  In addition, the average daily EOL 
+deal count for these Power regions has increased by about 50% since November. 
+
+*  Coal trades have decreased significantly from the levels seen in October.  
+The total monthly EOL deal count for November was only about 23% of the total 
+in October.  The total monthly EOL volume for November was only about 33% of 
+the total in October.
+
+*   LPG's has steadily increased its total monthly EOL deal count from 281 in 
+September, 398 in October, 444 in November, to 181 deals already in 
+December.  The total monthly EOL volume has increased similarly as well.
+
+*  Gasoil Financial has increased its total monthly EOL deal count from 11 
+trades in October to 26 in November.  The total monthly EOL volume has 
+increased by about 100% as well.
+
+*  Brent Financial has decreased significantly from the levels seen in 
+October.  The total monthly EOL deal count for November was down to about 220 
+from a level of about 400 in October.  The total monthly EOL volume for 
+November has decreased similarly as well.
+
+*  Heating Oil Financial has had few, if any, NYMEX look-a-like trades on EOL 
+over the past few months.  Out of a total of about 1,200 trades in November, 
+less than 40 have been done on EOL.  Heating Oil Physical has yet to do a 
+trade on EOL.
+
+*  Kero US Financial has decreased significantly from the levels seen in 
+October.  The total monthly EOL deal count for November was only about 24% of 
+the total in October.  The total monthly EOL volume for November was only 
+about 25% of the total in October.  However, already in December there have 
+been about half as many trades as the entire month of November.
+
+---------------
+The following files contain a graphical view of the average deal count and 
+volumes per month by Commodity for EOL and OTC transactions since the launch 
+of EnronOnline. This information is for comparative analysis only.  Do not 
+update links when opening these files.  
+
+
+AVERAGE DEAL COUNTS FOR COMMODITIES (excluding Global Products, which 
+displays monthly totals)
+
+
+
+
+NA GAS BREAKOUT BY REGION (Non-Averaged, including Volume and Notional Value)
+
+
+
+
+
+If you have any questions regarding this breakout, please contact one of the 
+following:
+
+Torrey Moorer x3-6218
+Matt Motsinger x3-5221
+Pete Berzins x5-7594
+
+
+Pete
+EnronOnline",1.0,What was the trend for Coal trades on EnronOnline in November 2000 compared to October?,"Coal trades decreased significantly, with the total monthly deal count for November being only about 23% of the total in October."
+largo,1617.0,Tuesday meeting and lunch follow-up,"[2001-10-22 19:51:27+00:00] sally.beck@enron.com:
+Tuesday - 10:00 to 12:00 - is the all-employee meeting at the Hyatt.  Given negative publicity over the last several days and the dramatic market reaction (stock price today down to $20), the meeting tomorrow should be well attended and I would expect that the questions will be quite candid.  MD's had a meeting this morning with Lay, Whalley and Frevert, and we made suggestions on what should be covered in the all-employee meeting.  
+
+I have dropped out of my recruiting trip to Oklahoma tomorrow so that I can be present at the Hyatt meeting.  Since Mark and Greg are both travelling, I think that it is important to both Ken Lay and employees for us to have a visible prescence at the meeting.  As a follow up, I am pulling together a group of senior leaders within ENW at noon for an informal lunch (in the conference room without door handles!). We will discuss what we heard at the all-employee meeting and how to anticipate employee questions and deal with the possibililty of low morale.  I will stress the importance of visible, consistant leadership at this time, and will ask all to do their part on this.  I discussed this with Greg Piper this morning, and he suppports this effort.
+
+Who do you want to have attend the lunch folllow-up meeting?  I need to send a note ASAP today to get this on everyone's calendar.  Beth Perlman suggested that we included Senior Directors and above.  Are you two okay with this?  --Sally",1.0,Why did I decide to cancel my recruiting trip to Oklahoma in October 2001?,"I decided to stay to attend the all-employee meeting at the Hyatt, as I believe it is important for senior leadership to have a visible presence given the negative publicity and market reaction."
+largo,2114.0,FW: Followup Meeting,"[2002-01-11 01:08:25+00:00] sally.beck@enron.com:
+I won't be able to attend the meeting on Friday.   I have an eye doctor's appointment at 9:30, so it is also unlikely that I will be able to call in, unless I am pleasantly surprised and he is running on time!  I will take the dial in number with me to the appointment in the event that I am somewhere in the process that allows me to dial in.  --Sally
+
+---
+
+[2002-01-11 01:37:00+00:00] sally.beck@enron.com:
+Doing fine - still in the boat.  At what is truly the eleventh hour, I seem to be getting calls about taking the Netco operations role.  Despite my statement of disinterest, there are those who would like to have one more conversation when the purchaser is known and a real role could be discussed. 
+
+I have met with Fallon several times over the last several days, but each meeting has specifically focused on information needs for E&Y relative to the estate or conference calls related to the transition services agreement with Netco.  Jim seems busy with these issues.  
+
+I am meeting with Janet D. tomorrow morning at 8:00 to give her an update on an infrastructure plan.  I have Bob Hall researching the details and status of the Peoples JV, Bridgeline and wholesale and retail power positions in California (he is coordinating with Beth Apollo and team on the retail side).  These details will help us flesh out the right support if these are some of the first assets that will be managed to create a go-forward company.  
+
+I enjoyed the dinner Tuesday night and had the opportunity to visit over dinner with a couple of people that I had not known before.  Seems like a good group.  --Sally
+
+---
+
+[2002-01-11 15:05:38+00:00] w..delainey@enron.com:
+Sally, I think you are exactly doing the right things - the major contracts that need supported, setting up infrastructure, etc.
+
+Obviously, I think your instincts on Netco versus Newco are right.
+
+Regards
+Delainey",3.0,What is the status of my potential involvement with Netco as of January 2002?,"Despite my initial disinterest, I am still receiving calls about taking the Netco operations role and there are parties interested in discussing a real role once the purchaser is known."
+largo,2044.0,Northern Natural Gas,"[2002-01-04 22:46:24+00:00] chairman.enron@enron.com:
+Yesterday, Enron settled a procedural dispute with Dynegy over Northern Natural Gas.  Our settlement allows Dynegy to exercise its option to acquire the pipeline, dismisses their Texas lawsuit and extends Enron's right to repurchase until June 30.  We reached this settlement as part of our efforts to bring Enron out of bankruptcy.  While we would like to keep Northern Natural, we still have some 9,000 miles of safe, profitable interstate pipelines as a base to rebuild our core businesses.  
+
+The settlement provides the best opportunity to resolve the pipeline issue quickly and pursue our $10 billion damage claim against Dynegy.  It also allows us to avoid the very substantial costs and distractions from protracted litigation in state courts.  
+
+We want to see a positive future for the employees working with Northern Natural Gas.  Below is a copy of a message from Stan Horton further explaining this decision to the employees of Enron Transportation Services.
+
+Ken
+
+
+
+Dear ETS Colleague:
+
+On Thursday, Enron entered into a settlement over Dynegy's exercise of its option to acquire the Northern Natural Gas pipeline.  The settlement allows Dynegy to exercise the option and assume interim control of the pipeline while Enron pursues its damage claim against Dynegy.  
+
+In this respect, Enron Corp. has carefully weighed the substantial costs and turmoil that litigating this possession issue would create for the company and the employees of Northern Natural Gas.  Consequently, Enron Corp. has decided not to contest interim possession and allow the transfer of Northern Natural Gas to Dynegy, while the larger issues affecting its future are resolved.
+
+The company has concluded that with this settlement, Enron should be able to resolve the issue more quickly, as well as avoid the legal cost burden and distractions to the business from protracted litigation in state court.  For the Northern Natural Gas employees, I believe this decision should allow them to steer clear of the dispute and focus on the day-to-day satisfaction of running a valuable, successful business.
+
+Beginning immediately we will be working to achieve a smooth transition and to align the appropriate resources to assure continued safe, reliable and efficient operation of Northern Natural Gas.  
+
+Over many years we have run high quality, cost conscious and profitable businesses in ETS.  Keep up the good work!
+
+Stan",1.0,What are the terms of the settlement Enron reached with Dynegy regarding the Northern Natural Gas pipeline?,"The settlement allows Dynegy to exercise its option to acquire the pipeline and assume interim control, while Enron dismisses its Texas lawsuit and pursues a $10 billion damage claim."
+largo,1232.0,Head above water?,"[2001-04-19 23:57:00+00:00] sally.beck@enron.com:
+Hadn't talked with you in a while and thought that I would send a quick note to say hello.  Saying it is busy here sounds a bit like a broken record, but it is busy here!  Big challege currently is juggling our huge day-to-day business for Enron Americas, starting the absorption of some pieces of EES (my part alone looks like an additional 120 employees, with the intent to find ways to assimilate that business and ultimately reduce overall support costs for Enron), the sale of Houston Pipeline to AEP that should conclude in June or July and the commercialization of mid and back office services.    All of these of course with top priority!  
+
+I am really enjoying having Beth Apollo on the team.  She has already made  a very positive impact, while she is learning the details of the operations side.  
+
+How is life treating you?  I know that their is a lot going on in the London office, as well.  How has Ted Murphy's assimilation into the London office been?  Do you have plans to be in Houston any time soon?  
+
+Keep me posted tomorrow on any news that you hear from Mike Jordan regarding their baby.  
+
+Hope that all is well with you.  --Sally",1.0,What are the current top priorities I am juggling for Enron Americas in April 2001?,"My priorities include managing day-to-day business, absorbing pieces of EES, the sale of Houston Pipeline to AEP, and the commercialization of mid and back office services."
+largo,2112.0,RE: IT Support,"[2002-01-10 16:32:48+00:00] tammy.jaquet@enron.com:
+Bob,
+
+We all realize these are difficult times and we must all adjust and work together but I would like to make you aware of the recent support changes that pose some issues for Logistics.  We are told that the Solution Center is not available after 7:00 p.m.  Monday through Friday nor are they available on the weekend.  We are continuing to schedule gas in Logistics albeit on a limited basis during these after hours so is there anyway IT can manage to provide some level of support?
+
+We appreciate your efforts to work with us to develop a solution.  
+
+Regards,
+
+Tammy Lee-Jaquet
+713-853-5375
+tammy.jaquet@enron.com
+
+---
+
+[2002-01-11 07:20:51+00:00] sally.beck@enron.com:
+Anything we can do on this?  Thanks.  --Sally
+
+---
+
+[2002-01-11 12:50:56+00:00] jenny.rub@enron.com:
+When we reduced staff the first week of December, one of the assumptions we made was that we would not longer provide 24 hour support.   In doing so, the 7x24 team was let go.  That team represented about 50 people across my organization.  We have electronic monitor systems to ensure critical servers/routers/software/etc are running and if something goes wrong, someone is paged.  However, we are not requiring the help desk people to be on call.  (There are only 7 of them). And given all the data requests, churns, inventorying, etc, my staff is being stretched thin.  Also, we have had three resignations this week, so I expect it to only get worse.  
+ 
+I will have someone (LaMetrice) get with Tammy to see what issues she has experienced to determine the criticality/type.  Possibly there are proactive things that can be done to eliminate her issue(s).  And if it's deemed that there is a need to have help desk staff on call, we'll figure out what that will take (cost).    
+ 
+More to come....JR",3.0,Why is the IT Solution Center no longer providing 24-hour support as of January 2002?,"The 7x24 support team was let go during a staff reduction in the first week of December, and the remaining help desk staff is not required to be on call."
+largo,1630.0,Org Chart - Introduction,"[2001-10-23 17:32:31+00:00] fred.kelly@enron.com:
+Sally - Lloyd Will and I would like to swing by and make a quick introduction.  Also....we would love to talk you out of a high level org chart of your organization.   
+
+I work for Ozzie Pagan in EES and am tasked with getting the EES Retail Operation Center (ROC) off the ground.  My technology guys report in to Anthony Dayao (thru Mike Fink).  We have linked up with Lloyd Will in ENA so that we don't have to hire operators and re-create the functions he has already pioneered with the hourly and cash desks.  I'm also working with Evan Hughes and Murray O'Neal in Beth Apollo's group to define roles/interface points for DG and Load Curtailment products (on the billing/settlement side).  Finally, I'm working with the team that is attempting to define consolodated Risk Systems (Dayao/Accencur et all)
+
+a)  could Lloyd and I get a high level org chart for your org so we recognize/understand/get to know your folks?
+
+b)  Lloyd and I would like to come by for 10 minutes and introduce ourselves - we will attempt to schedule thru Christina
+
+Regards",1.0,What is the purpose of the meeting requested by Fred Kelly and Lloyd Will regarding my organization?,They want to introduce themselves and obtain a high-level organizational chart of my group to better understand my team.
+largo,374.0,Re: MPA Dinner Cruise -- Need Response,"[2000-08-21 16:13:00+00:00] sally.beck@enron.com:
+I didn't have this on my calendar, Lexi, because I wasn't on the list for 
+this event that you handed out regarding the recruiting strategy.  My husband 
+has a commitment away from home for Wednesday night, and with the children in 
+school already, I can't really ask the older kids to babysit for the two 
+year-old during prime homework hours.  Patti has some names that I have 
+suggested for this event and she plans to call you with those names.  Very 
+few of the names on your e:mail message were on the Recruiting Strategy 
+Schedule that you handed out, so I would be surprised if any of these folks 
+have this on their calendars.  You may need some of the names that Patti has 
+for you.  
+I have put the other dates on my calendar, however, and I am in the process 
+of lining those up with our home schedule to make sure that these will work 
+for me.  
+
+
+   
+	Enron North America Corp.",1.0,Why did I inform Lexi that I could not attend the recruiting strategy event on Wednesday night?,"I was not on the original list for the event, and I had childcare conflicts because my husband had a commitment away from home."
+largo,955.0,Analyst Rotation Recommendation - Jody Crook,"[2001-02-02 14:20:00+00:00] sally.beck@enron.com:
+Along with Mike McConnell, I am active in recruiting for Enron's Analyst 
+Program at the University of Oklahoma.  We became involved in recruiting 
+there two years ago when I learned about a targeted undergraduate program 
+that seemed like it could be a good fit for our program.  OU transformed 
+their old PLM (Petroleum Land Management) program into the Energy Management 
+Program in the School of Business.  This undergraduate degree retains the 
+geology, business law and other specialized classes that were part of the PLM 
+program, but adds additional finance hours with a focus on derivatives and a 
+trading floor course.  With the added plus of many of these students growing 
+up in or around ""energy"" families in Oklahoma or Texas, I thought that 
+recruiting top graduates from this program could be beneficial to Enron.  Our 
+recruiting efforts at OU continue to be successful and our OU Energy 
+Management graduates have done well at Enron.  
+
+Our first hire from OU (and the top Energy Management student) was Jody 
+Crook.  He joined the analyst program last February after a December 1999 
+graduation.  His first rotation has been on my team, working as a risk book 
+administrator in gas trading.  He is in the process of looking for a second 
+rotation at the end of February, and I think that he is someone that you 
+should consider for a rotation on your team.  In addition to this last year's 
+risk experience at Enron, Jody worked as a landman for two summers for 
+Burlington Resources.  
+
+I was very involved in recruiting Jody to Enron.  I think very highly of him, 
+and want to be sure that he has good rotations while in the Analyst program.  
+His background and your business seem to be a good fit.  Please visit with 
+Jody as he contacts your group about a rotation.  It will be well worth your 
+time.  
+
+Thanks.",1.0,Who is the top Energy Management student from the University of Oklahoma that I recommended for a rotation in the Analyst Program?,"Jody Crook, who previously worked as a risk book administrator in gas trading and as a landman for Burlington Resources."
+largo,1564.0,Enron Reward Bucks Modification,"[2001-10-11 18:44:17+00:00] frank.de@enron.com:
+Based on the suggestion made in Sally Beck's last staff meeting, we have modified the Enron Reward Bucks program to include the recognition of Managers. 
+
+With regards to the process, you will continue to utilize the nomination form for Sr. Specialist and below and follow the same criteria. When ordering future debit cards, we recommend you include denominations of $150 and $200 to handle the additional recognition. In the interim, when nominating a Manager, you can combine denominations to equal the amount you are interested in rewarding (for example; 1-$100 and 1-$50 card or 2-$100 cards). We are not suggesting that you award at this amount, however it is available to use at your discretion.
+
+The Enron Reward Bucks maximize at $200, where PBAs generally range from $200-$2000 though with committee approval can range higher. These programs are intended to compliment each other and we encourage you to utilize them to recognize and reward your team. We will continue to evaluate these programs and make changes as needed from both a business and employee perspective. 
+
+Please feel free to contact your HR representative if you have further questions on the programs or recommendations on how they can be improved.
+
+Please share this with your staff.
+
+
+Regards
+Frank",1.0,What change was made to the Enron Reward Bucks program following my last staff meeting?,The program was modified to include the recognition of Managers.
+largo,1406.0,FW: Slides for Offsite,"[2001-05-29 15:59:59+00:00] sally.beck@enron.com:
+Patti is sending you my slides for the offsite - I finally got out of meetings long enough to review them!  
+
+There will be four parts to the Mid/Back Office hour and a half on the agenda:
+
+	Global Risk Management Operations - Overview of Services (Beck providing slides)
+
+	IT Systems - Overview and Organization (Perlman providing slides) ) 
+
+	CommodityLogic Modules (Gros providing slides)  
+
+	Commercialization Effort (the three of us are working on a few slides - to come later today)
+
+---
+
+[2001-05-29 16:21:45+00:00] sally.beck@enron.com:
+Change in plans - Patti will send slides for both me and Beth.  She is formating info from Beth's assistant into format that I used for my slides, so you will get these as one presentation.  (Patti has already sent my slides so that you can begin the process of making copies for the binders.)  I think that you already have slides from Tom on CommodityLogic.  We are working on a few slides for the Commercialization Effort - will have those ready as soon as we can.   Thanks, Tina. --Sally",2.0,What are the four components of the Mid/Back Office presentation for the offsite meeting?,"Global Risk Management Operations, IT Systems, CommodityLogic Modules, and the Commercialization Effort."
+largo,313.0,Re: Financial Confirm NP6050.1,"[2000-07-19 16:53:00+00:00] sally.beck@enron.com:
+How do we get the right focus on support for Calgary?  Mark Taylor wanted to 
+hold up transferring confirm responsibility to Calgary, so we still need to 
+provide excellent service to them.  While I can appreciate that Diane is out, 
+that should actually be a red flag to us to pay even closer attention to the 
+Calgary stuff.  Every screw up looks big to them, and they can't understand 
+how mistakes continue to happen.  While I know that they can't appreciate the 
+vast number of transactions that the group is currently handling, we still 
+need to be able to deliver top notch service.  Unfortunately, we stub our toe 
+enough with Calgary that they view of our operation is one that delivers 
+pretty poor to average service.  That is a terrible internal PR issue.  Let's 
+put our heads together on not just the confirm issue but all of our dealings 
+with Calgary so that we quickly turn around our error rate (and/or their 
+perceptions) and  can sustain excellent service. I am copying Susan because 
+she has dealt recently with an issue brought to our attention by  Rob 
+Milnthorp (president of Enron Canada).  She responded to Rob quickly and 
+handled things professionally, so she may not have shared the details with 
+you at the time.  But now we need to look at all of our outstanding, 
+potential or past issues with Calgary and get a solution in place.  She can 
+fill you in on the details in that situation.",1.0,What is the primary concern regarding the service provided to the Calgary office?,"We have a high error rate and poor internal PR with Calgary, and we need to improve our service delivery and address their perception of our operations."
+largo,2179.0,RE: Data needed for Fallon and Delaney,"[2002-01-16 22:20:22+00:00] hector.mcloughlin@enron.com:
+Dave Delaney and Jim Fallon need the following information for a meeting tomorrow at noon.   They need to know which BU all ENW and ISC employees support (i.e. EGM, EIM, EBS, EES, and ENA). 
+I've provided all the employees that remain in the estate in the spreadsheet below for you.   There's a tab for each of you with all of your Estate employees listed.    Please designate which company each employee supports and return by 11 AM tomorrow.   
+I apologize for the short notice. 
+Thanks for your help. 
+H
+
+---
+
+[2002-01-17 14:06:17+00:00] jenny.rub@enron.com:
+The Infrastructure group provides shared services and people are not designated to specific business units.
+
+---
+
+[2002-01-17 14:50:16+00:00] beth.perlman@enron.com:
+In my world, most people are performing shared services.  I will show the various business units that they support - there will not be a one to one correlation of business unit to person.  We also support Corp. activities like treasury, web development (placement services, etc.), legal (lots of work there).
+
+Beth",3.0,What information did Hector McLoughlin request from me and other managers regarding employees in the estate?,He requested that we designate which specific business unit each employee supports for a meeting with Dave Delaney and Jim Fallon.
+largo,1884.0,RE: Fun Yet??,"[2001-11-20 03:30:16+00:00] sally.beck@enron.com:
+Are we having some fun now?  Thought about you today - in fact, ran across a business card of yours that I had in a file from Phibro Energy.  
+
+I know that I have missed your insight and opinions into Enron's roller-coaster.  Is this ride better with eyes open or closed?  --Sally
+
+---
+
+[2001-11-20 18:07:45+00:00] sally.beck@enron.com:
+I think that your Phibro card is from our original meeting in New York, a lifetime or two ago!!  
+
+Sounds as if your rollercoaster experience with Teddy was perhaps a preview of the subsequent weeks at Enron.  Thank goodness for those little guys to go home to every night.  
+
+My little guys aren't so little any more.  Meagan is a senior this year - had all of her college applications submitted by November 1, and feels pretty good just knowing that her part is done.  She has gotten one acceptance - University of Oklahoma.  She also applied to UT, SMU and TCU and is waiting to hear from them.  She may hear from SMU and TCU before Christmas - UT probably after the first of the year.  (By the way, David and I are strongly talking up the state school thing, given the current Enron share price, or diminished portion thereof.)  This senior year is going by all too quickly, especially since the last month or so I seem to be hearing about it second-hand having spent way too many hours in the Enron Building.
+
+And mentioning the building, I moved to Enron Center South (the new building) in mid September.  I'm on the 4th floor - one of the trading floors.  Kinneman is on this floor, too.  Kind of a cool building, but weird because it is not really finished.  Our floor is fine, but you have to walk through a maze of temporary walls on the second floor to get to the elevator - and some elevators are ""panelled"" with rough plywood inside.   The sky ring thing is cool, too, but half of the circle is closed on a daily basis as they continue to finish out the space.  We walk under open ceilings with wires hanging down.  Not exactly sure how we were able to swing an occupancy certificate, but we are here!  
+
+Do let me know if you are going to be in Houston anytime soon.  I would love to get together with you.  Between 9/11 and our current cash constraints,  my previously planned November London visit is not happening!  
+
+Enjoy your Thanksgiving in London.  --Sally",2.0,Which universities has my daughter Meagan applied to for her senior year of college?,"She has applied to the University of Oklahoma, UT, SMU, and TCU."
+largo,448.0,Re: Perry Gas -SAP Override issue,"[2000-09-22 16:37:00+00:00] sally.beck@enron.com:
+I know that there are a number of things that do not work as we had 
+anticipated in SAP.  I also know that there are several things where we have 
+to change our processes to accomodate differences or gaps in SAP.  We also 
+have significant issues with the timing of certain runs within SAP and a 
+mismatch of that timing with our business processes.  There was a concerted 
+effort kicked off by the SAP team last week to try and identify and resolve 
+issues.  They met with my direct reports.  However, we have to reconvene as 
+we ran out of time to cover all issues!  I have asked Leslie Reeves and Bryce 
+to get back to me on even more detail on this example so that we can fully 
+understand how much of this issue was attributable to human versus system.  I 
+will get back with you as I know more details and as I can share with you our 
+list of first ""hits"" for SAP fixes or enhancements.  Thanks for sharing this 
+with me.  --Sally",1.0,What action have I taken to address the issues identified with the SAP system?,I have asked Leslie Reeves and Bryce to provide more detail on specific examples so we can determine if the issues are human or system-related and identify necessary fixes.
+largo,1873.0,"EnronOnline Weekly Public Report for November 16, 2001","[2001-11-19 23:33:44+00:00] fraisy.george@enron.com:
+The information contained in the Weekly Public Report can be communicated to audiences outside the company and should be used to ensure that we present a consistent message to the public. Please ensure that this email is distributed to anyone in your group who needs to discuss EnronOnline with individuals outside the company.
+
+This report is not intended to be used as a stand-alone presentation, nor that all the information be used in a single presentation or customer communication.
+
+Total Life to Date Transactions >1,650,000
+Average Daily Transactions > 5,500
+
+Life to Date Notional Value of Transactions > $900 billion
+Daily Notional Value Approximately $2.6 billion
+
+Number of Products Offered: Approximately 1,900
+Number of Currencies Traded in = 15
+
+EnronOnline Version 1.0 Launch Date: November 29, 1999
+EnronOnline Version 2.0 Launch Date: September 18, 2000
+
+Due to size constraints on the Outlook System, the Public Report will no longer be distributed.
+A complete copy of the report can now be accessed directly through the EnronOnline Intranet Site at http://eolinfo.enron.com.
+
+In order to access this report,  click on the link above. Once there, follow the link entitled ""Reports"" and then select the ""Public Reports"" tab. A dropdown menu will appear with a list of the various public reports available for viewing. .
+
+We look forward to your feedback and comments. If you have any questions or experience any difficulties accessing your reports through the Intranet Site, please feel free to contact either Bryan Deluca at x54943 or Fraisy George at x35424.",1.0,What is the launch date of EnronOnline Version 1.0?,"November 29, 1999."
+multi_mensaje,424.0,Re: Business Opportunities,"[2000-09-07 11:08:00+00:00] sally.beck@enron.com:
+The week of September 11 is not a great week for me.  I am out of the offic=
+e=20
+from Tuesday at noon through Friday afternoon, so my Monday and Tuesday=20
+morning are already booked!  I checked to see if there was anything that I=
+=20
+could bump off the schedule for Monday, but I am doing several performance=
+=20
+reviews and have Richard Sage here from London to go over several things. =
+=20
+
+The next week, I am at a Communications training session on Monday, Septemb=
+er=20
+18 and then will be in a V@R class on Thursday and Friday, September 21 and=
+=20
+22.  Let's try for Tuesday or Wednesday that week, the 19th or 20th.  I hav=
+e=20
+Patti checking on some travel details for me.  I have to make a presentatio=
+n=20
+for recruiting in Austin on Wednesday late afternoon or evening.  Let me kn=
+ow=20
+what works for you.  --Sally=20
+
+---
+
+[2000-09-11 12:59:00+00:00] sally.beck@enron.com:
+Please set up a 30 minute meeting for me with Dave.  Thanks.=20",2.0,"What are the specific dates in September 2000 that I am unavailable for meetings due to travel, training, and other commitments?","I am out of the office from Tuesday, September 12 through Friday, September 15. Additionally, I am at a Communications training session on Monday, September 18, and in a V@R class on Thursday and Friday, September 21 and 22."
+multi_mensaje,746.0,Re: Information in Entelligence vs Global Counterparty,"[2000-12-11 14:05:00+00:00] sally.beck@enron.com:
+I certainly agree that updated information from the wider company database 
+should flow to update GCP.  I assume that you have talked with both Mary 
+Solmonson and James Scribner about this process to understand the details.  
+They are the logical experts for that discussion.  Your memo is a little 
+vague on that, so if you are getting information from someone else and have 
+not taken the time to talk with the best sources, I would suggest spending 
+time with James and Mary so that you and they are appropriately informed.  
+
+Absolutely there are procedures in place to handle these updates to GCP.  I 
+believe that these are pretty manual, as there are no systematic feeds from 
+Entelligence into GCP.  James and Mary (I refer to both because James has 
+only recently assumed Mary's duties within Global Databases) can best discuss 
+how this process works.  If you are aware of specific concerns around this, I 
+know that James and Mary will want to hear that from you.  As is to be 
+expected for any business that has experienced a 600% increase in the number 
+of transactions year on year, there are challenges that we face daily in all 
+of the tasks that we do.  Your input will help James in making sure that 
+priorities are set and personnel are deployed to tackle the biggest issues 
+that we have.  I recognize the challenge that Credit must be facing in 
+aggregating exposures in our market environment today.  With your input, we 
+will do our very best to be certain that the data surrounding the 5.000+ 
+deals that are done daily is as accurate as possible.
+
+---
+
+[2000-12-11 14:19:00+00:00] william.bradford@enron.com:
+Sally,
+
+I share your pain about increased deal flow.  Have you spoken with Lavo about 
+getting additional resources or is there a way to better allocate resources?  
+Is the Entelligence database used by anybody?  Should we not focus those 
+resources on GCP?
+
+I am getting hammered on the exposure questions.
+
+Please help!!!
+
+Bill
+
+
+
+   
+	Enron North America Corp.
+
+---
+
+[2000-12-11 14:34:00+00:00] sally.beck@enron.com:
+??  Will IT resources make a difference in what we need to deliver and how 
+quickly we can do it?  Someone must be giving credit the idea that ""if only 
+we had IT resources..."" and that those resources are active on Entelligence 
+but are not helping us on other business basics.  --Sally
+
+---
+
+[2000-12-11 14:48:00+00:00] sally.beck@enron.com:
+How about our resources?   Is there someone working on Entelligence now for 
+us that could at least temporarily be redirected to work on updating GCP 
+appropriately?",4.0,Who are the subject matter experts I should consult regarding the process of updating the GCP database?,Mary Solmonson and James Scribner are the logical experts to discuss the GCP update process.
+multi_mensaje,1535.0,FW: Center for Houston's Future,"[2001-10-05 20:21:39+00:00] sally.beck@enron.com:
+I participated last weekend in the Leadership Forum for Fall 2001 of the Center for Houston's Future.  I wanted to thank you for recommending me as a member of the Forum.  I thoroughly enjoyed the opportunity to meet so many interesting, talented members of the Houston community.  I know that I will enjoy working with the group during our second session, November 1-3, as well as collaborating on some ""homework"" assignments that we will complete between now and then.   I especially am excited about the possibilities of making an impact on Houston's future through developing both relationships and action steps  through my association with the Center.   Thanks again for making this opportunity available to me.  --Sally Beck
+
+---
+
+[2001-10-05 20:22:14+00:00] sally.beck@enron.com:
+Thanks, too, for getting my name in front of Ken!  --Sally",2.0,When is the second session of the Center for Houston's Future Leadership Forum that I am scheduled to attend?,"The second session is scheduled for November 1-3, 2001."
+multi_mensaje,1748.0,FW: Meeting in Houston - October 29th -Forwarded,"[2001-11-05 19:41:36+00:00] dan.leff@enron.com:
+Beth / Evan 
+
+Making sure we are all on the same page re: the resolution, timing, responsibilities.
+
+thanks - Dan
+
+---
+
+[2001-11-05 20:20:20+00:00] sally.beck@enron.com:
+What are the plain facts around this Rexam deal?  --Sally",2.0,"What is the subject of the deal I requested information about from Dan Leff on November 5, 2001?",The deal is the Rexam deal.
+multi_mensaje,123.0,Re: Dinner Next Week,"[2000-03-14 08:37:00+00:00] sally.beck@enron.com:
+Brent Price and I will be in the London office next week.  Wanted to see if 
+you, Frank and Mo might be available for dinner one evening.  We arrive on 
+Monday morning (March 20th) and will return to Houston on Friday morning.   
+Our Tuesday night is booked, having dinner with Fernley.  But Monday, 
+Wednesday and Thursday are available.  Does it work for you with the baby to 
+do evenings?  Let me know.
+
+---
+
+[2000-03-14 11:46:00+00:00] sally.beck@enron.com:
+I'll look forward to seeing you.  Since my first note, I have scheduled a 
+dinner with Richard Sage on Thursday evening - the only time that he and I 
+can meet, since he is in Helsinki through Wednesday, in the office on 
+Thursday but booked that day.  With the Tuesday dinner with Fernley, that 
+leaves Monday or Wednesday.  I hope that one of those days works for you and 
+Frank.  I will try to call Mo - I think that she is still in Houston today.  
+--Sally",2.0,"Which evenings are available for me to have dinner with you, Frank, and Mo during my trip to the London office the week of March 20, 2000?","Monday, March 20th, or Wednesday, March 22nd, are available for dinner."
+multi_mensaje,350.0,RE: slumber party,"[2000-08-11 11:37:00+00:00] sally.beck@enron.com:
+That was always one of my favorites!  The old Parent Trap is always great 
+too,  I wish that I could be there. I know that Brigeda must be excited about 
+the slumber party.  When does she start school?  Today is day #2 for the 
+girls --Amanda loves her classes.  Meagan thought that the first day 
+""sucked"".  I have been on the phone with her counselor and assistant 
+principal this morning trying to undo a bad decision that she made on her 
+class selection.  Despite annual struggles with algebra and geometry, she 
+signed up for both Physics and Pre-Calc!!!   I don't know what she was 
+thinking!!  Amazingly, for a school as large as Klein, I was persuasive 
+enough with the assistant principal that they will ignore the July 22 
+deadline for changing your schedule and they will let her drop Physics and 
+add a study hall.  She still will take Pre-Calc, but she is in a regulars 
+class that will be a review of Algebra II during the first semester, which is 
+probably exactly what she needs.  I was prepared to go all the way to the 
+school board if necessary to get her a schedule that makes sense, but luckily 
+I didn't have to go that far.  
+
+Hope that you have a good weekend!  Love, sally
+
+---
+
+[2000-08-11 12:06:00+00:00] sally.beck@enron.com:
+Definitely clever!  I wish that I had thought of the changing the clock thing 
+when the girls were younger and had slumber parties.  
+
+I didn't know that there were computer games that work on higher level math 
+skills.  I will definitely look into that for Meagan.  
+
+I wish that we could meet for lunch.  Keep me posted on Cara  -- I have 
+called her a little more frequently lately in hopes that she would spill the 
+beans, but no movement on that yet!  
+
+I think that next week we will know the schedule of games when Meagan will be 
+dancing.  She did not make the dance for the first try-out.  It was jazz;  
+not her strong suit.  But she did make the dances for the next two try-outs:  
+a kick rountine and a pom routine.  There are two more try outs -- one more 
+for kick and one more for pom. Hopefully she will make both.  Each routines 
+is danced at two games -- one at home and one away.  So if she makes the next 
+two dances, then she will be in 8 out of 10 dances for the football season.  
+I think that she would feel pretty good about that.  The last two try-outs 
+will be next week.  I will keep you posted.  
+
+Have a great weekend.  Love, Sally",2.0,What specific change did I manage to negotiate with the assistant principal at Klein school regarding Meagan's class schedule?,I persuaded the assistant principal to ignore the July 22 deadline and allow Meagan to drop Physics and add a study hall.
+multi_mensaje,934.0,"ASE on February 12-13, 2001 in Dallas, TX","[2001-01-25 17:31:00+00:00] sally.beck@enron.com:
+On January 12, I hosted a brainstorming session at the Four Seasons hotel i=
+n=20
+downtown Houston in which we assembled a number of ideas regarding mid and=
+=20
+back office services we could offer to the commodity industry.  To complete=
+ a=20
+plan for launching this strategic commercial venture, we are hosting an=20
+integrated design session facilitated by Cap Gemini Ernst & Young (CGEY) at=
+=20
+their Accelerated Solutions Environment in Dallas, Texas. =20
+
+I am personally extending an invitation to you to participate in this desig=
+n=20
+session.  This is a critical two-day event to be held February 12th and 13t=
+h=20
+in Dallas, Texas.   This work session is based on a unique approach called =
+a=20
+DesignShop=01v.  It is a very focused, activity-driven event that is compos=
+ed of=20
+various modules and exercises performed in small and large groups. If you=
+=20
+have not attended one of the DesignShops related to SAP, you will likely=20
+regard this session as different from any working session you have previous=
+ly=20
+experienced. The prior DesignShops held in conjunction with SAP have proven=
+=20
+to be very successful.  Therefore, we have elected to utilize this same=20
+methodology on this very critical and strategic venture.
+
+A limited number of representatives from Enron will be attending.  You were=
+=20
+selected to be one of approximately 30 key individuals to participate in th=
+e=20
+DesignShop. You are being asked to participate in the full two days with as=
+=20
+little distraction or interruption as possible.  The quality of our results=
+=20
+depends on each participant being fully engaged and participative for the=
+=20
+entire event.   Additionally, you will be relied on in the future to suppor=
+t=20
+and communicate our commercial strategy as it is defined at this session. =
+=20
+This date was specifically selected to avoid critical operational periods s=
+o=20
+that your participation can be maximized. Therefore, please make all=20
+necessary arrangements at the office to minimize your distractions during=
+=20
+these two days.
+
+Please review the attached information regarding hotel, flight information,=
+=20
+and transportation.  Preliminary information as to schedule and environment=
+=20
+has also been included.  You may direct any additional questions concerning=
+=20
+the event to Mary Solmonson at (713)-853-6079.
+
+I hope that you will be able to participate.  Please confirm your attendanc=
+e=20
+for the two days with Marvia Jefferson at 713-853-9165 by January 29th 5:00=
+=20
+p.m.  If you are unable to attend, it may be appropriate to select someone=
+=20
+else to participate.  Please do not extend an invitation to anyone else to=
+=20
+take your place until you and I have discussed this.
+
+I thank you in advance for your participation and look forward to seeing yo=
+u=20
+in Dallas!
+
+---
+
+[2001-01-25 17:33:00+00:00] sally.beck@enron.com:
+FYI.  Forgot to cc: you on this.",2.0,"What is the purpose of the two-day event scheduled for February 12th and 13th in Dallas, Texas, and who is facilitating it?",The event is an integrated design session facilitated by Cap Gemini Ernst & Young (CGEY) to complete a plan for launching a strategic commercial venture regarding mid and back office services.
+multi_mensaje,1852.0,RE: Talent Review Meeting,"[2001-11-16 22:53:42+00:00] tina.spiller@enron.com:
+Please attend a Talent Review Meeting on Tuesday, November 19.  Details...
+
+Tuesday, November 19
+8:00 - 11:00 a.m.
+ECS 04075
+
+Thanks,
+
+Tina Spiller
+Assistant to Greg Piper
+President & CEO
+Enron Net Works LLC
+Phone 713.853.5746
+Fax 713.646.8070
+
+---
+
+[2001-11-16 22:59:15+00:00] tina.spiller@enron.com:
+November 20.  Sorry for the confusion.
+
+TS",2.0,What is the final confirmed date and time for the Talent Review Meeting mentioned by Tina Spiller?,The meeting is scheduled for November 20.
+multi_mensaje,2112.0,RE: IT Support,"[2002-01-10 16:32:48+00:00] tammy.jaquet@enron.com:
+Bob,
+
+We all realize these are difficult times and we must all adjust and work together but I would like to make you aware of the recent support changes that pose some issues for Logistics.  We are told that the Solution Center is not available after 7:00 p.m.  Monday through Friday nor are they available on the weekend.  We are continuing to schedule gas in Logistics albeit on a limited basis during these after hours so is there anyway IT can manage to provide some level of support?
+
+We appreciate your efforts to work with us to develop a solution.  
+
+Regards,
+
+Tammy Lee-Jaquet
+713-853-5375
+tammy.jaquet@enron.com
+
+---
+
+[2002-01-11 07:20:51+00:00] sally.beck@enron.com:
+Anything we can do on this?  Thanks.  --Sally
+
+---
+
+[2002-01-11 12:50:56+00:00] jenny.rub@enron.com:
+When we reduced staff the first week of December, one of the assumptions we made was that we would not longer provide 24 hour support.   In doing so, the 7x24 team was let go.  That team represented about 50 people across my organization.  We have electronic monitor systems to ensure critical servers/routers/software/etc are running and if something goes wrong, someone is paged.  However, we are not requiring the help desk people to be on call.  (There are only 7 of them). And given all the data requests, churns, inventorying, etc, my staff is being stretched thin.  Also, we have had three resignations this week, so I expect it to only get worse.  
+ 
+I will have someone (LaMetrice) get with Tammy to see what issues she has experienced to determine the criticality/type.  Possibly there are proactive things that can be done to eliminate her issue(s).  And if it's deemed that there is a need to have help desk staff on call, we'll figure out what that will take (cost).    
+ 
+More to come....JR",3.0,Why is the Solution Center no longer available to provide after-hours support for the Logistics team?,"The 7x24 team was let go during staff reductions in the first week of December, and the remaining help desk staff are not required to be on call."
+multi_mensaje,1293.0,FW: Headcount for 1998 - 2001,"[2001-05-04 22:27:12+00:00] brian.heinrich@enron.com:
+Sally,
+The attached file shows the detail of plan headcount for December 31, 1998 through 2001.  The only number that I still have a question about, is for EGM December 2001, the number I have in the file only represents the people moving into Networks from EGM (Brent's group).  I left a message with Tom Myers, to get the correct number.  
+I have also added the graphs that we discussed, which show increase in headcount along with increase in deal counts.
+If you have any questions, let me know.
+Thanks,
+Brian
+
+---
+
+[2001-05-07 13:52:37+00:00] sally.beck@enron.com:
+Please see if you can get this to print so that I get all of the info.  I tried it 100 times on Friday and could only one page to print, which did not include all of the information.  Thanks.  NEED THIS TODAY.",2.0,What specific issue am I experiencing when trying to print the headcount plan file sent by Brian Heinrich?,"I am only able to print one page, which does not include all of the information contained in the file."
+multi_mensaje,791.0,Re: The Assistant's Party,"[2000-12-13 10:33:00+00:00] kimberly.hillis@enron.com:
+Sally,
+
+I wanted to send you a short note to tell you about the success of last 
+nights Office of the Chairman Holiday Assistant's Party.
+
+The party was an absolute success, but one of the main reasons why was 
+because of Heather Choate.  I sent out ONE email to Patti and she recruited 
+Heather who made huge efforts to get some wonderful gifts to be given out. 
+
+It is nice to see people truly going above and beyond!  She was a superstar!
+
+Kim Hillis
+x30681
+
+---
+
+[2000-12-14 11:26:00+00:00] sally.beck@enron.com:
+I meant to blind copy you on this.  Here it is...",2.0,Who was the individual recognized as a superstar for her efforts in securing gifts for the Office of the Chairman Holiday Assistant's Party?,Heather Choate.
+multi_mensaje,74.0,Re: Lunch?,"[2000-02-07 10:36:00+00:00] sally.beck@enron.com:
+Friday won't work for me for lunch this week, but Thursday is open for me at 
+this point.  Would that day work for you?  If lunch won't work, then we will 
+plan some time on the calendar for Thursday or Friday.  Let me know.   I will 
+look forward to seeing you.
+
+---
+
+[2000-02-07 16:19:00+00:00] sally.beck@enron.com:
+Friday at 2:00 pm  --does that work for you?  --Sally",2.0,"What specific time did I propose for a meeting on Friday, February 7th?",I proposed meeting at 2:00 pm.
+multi_mensaje,1876.0,RE: Ugh!!!,"[2001-11-20 03:34:40+00:00] sally.beck@enron.com:
+Tough times - and lots of work.  I know that you must be swamped, and that you had already been immersed in what was believed to be a tough budget process.  I am sure it is even tougher now!
+
+Got a call from Melissa Becker today regarding retention.  On Rick's behalf, she was asking about London operations.  I assume that you have covered that.  Her specific question related to Mike.  I told her that you and I hadn't talked, and that my assumption was that you had this one covered.  Accurate?  
+
+
+Take care. 
+
+-Sally
+
+---
+
+[2001-11-20 10:18:00+00:00] fernley.dyson@enron.com:
+Hi Sally - tough times indeed. Yes - we have provided a list of our key employees and Mike is on the list.
+
+Let's talk soon - it would be good to catch up.
+
+Fernley.",2.0,Did Fernley Dyson confirm that Mike is included on the list of key employees for London operations regarding retention?,"Yes, Fernley Dyson confirmed that they have provided a list of key employees and Mike is on that list."
+multi_mensaje,1699.0,Re: FW: Roles and Responsibilities,"[2001-10-29 21:01:46+00:00] david.delainey@enron.com:
+Guys, given our continued need to be crisp and clear on our work product and a clear view to increasing efficiencies, particularily in the back and mid office, I think it would be a good exercise to clearly map out roles and responsibilities between ENW and the EES Services Group in some amount of detail.  Dan will take the lead in this activity.  I would hope that we could have this mapped out fairly quickly without a great deal of internal time.
+
+Thanks for all the hard work.
+
+Regards
+Delainey
+
+---
+
+[2001-10-29 23:26:40+00:00] sally.beck@enron.com:
+Since you are the lead, I assume that you have an idea from Dave on what he is looking for.  Since Dave referenced ENW, I assume that we will include roles with regard to IT development projects.  Do you think that he also wants to pick up definition of Infrastructure roles as well?  --Sally
+
+---
+
+[2001-10-30 01:20:06+00:00] dan.leff@enron.com:
+Sally - 
+
+I know where we need to go with this.  
+
+Primary focus is on the areas of the business managed by Beth and Evan.
+
+I'll set something up to discuss
+
+Thanks - Dan",3.0,What is the primary focus of the role mapping exercise between ENW and the EES Services Group that Dan Leff is leading?,The primary focus is on the areas of the business managed by Beth and Evan.
+multi_mensaje,516.0,Speaking Engagement for Operations Controller Forum,"[2000-10-18 22:39:00+00:00] sally.beck@enron.com:
+Thanks in advance for agreeing to speak at the Global Operations Controller 
+Forum.  Dress for the forum is casual, so feel free to do the same.  There 
+will be approximately 30 Enron business controllers present at the meeting.  
+All have responsibility for mid and back office operations for the following 
+Enron entities:  Enron North America, Enron Europe, Enron South America, 
+Enron Global Markets, Enron Industrial Markets, Enron Broadband Services and 
+Enron Energy Services.  Attendees will be here from Houston, Calgary, Tokyo, 
+Sydney, London and New York (metals business).   
+
+Attached for your reference is the agenda. There may be some slight changes 
+before the forum begins, but this will give you a good idea of the topics to 
+be covered and the other speakers who will address the group.  
+
+
+You and I talked about Monday or Tuesday afternoon, October 23 or 24.  I have 
+tentatively put you on the agenda over lunch on Tuesday as detailed below.   
+I hope that you can join us for lunch and address the group either before or 
+after you eat - your choice on that.  I will call Peggy to check on your 
+schedule, and if this does not work we can rearrange.  
+
+Date:  Tuesday, October 24, 2000
+Time:  Noon 
+  (lunch will be served from 12:00 to 1:30)
+Place:  The Warwick Hotel
+  The Versailles Room - 12th Floor 
+  5701 Main Street
+  Houston,  TX  77005
+
+I have noted that your topic will be Technology's vision for supporting 
+global trading operations.  I know that the group would also like to hear 
+about what is going on in Enron Networks.  We can alter the topic as you 
+would like.  
+Let me know if you have any questions and thanks again for joining us.
+
+---
+
+[2000-10-18 22:40:00+00:00] sally.beck@enron.com:
+FYI - my details to Philippe",2.0,"What is the scheduled date, time, and location for my presentation at the Global Operations Controller Forum?","The presentation is scheduled for Tuesday, October 24, 2000, at noon at The Warwick Hotel, Versailles Room, 12th Floor, 5701 Main Street, Houston, TX."
+multi_mensaje,1206.0,Re: Costs,"[2001-04-11 20:17:00+00:00] sally.beck@enron.com:
+I chose not to circulate a copy last Friday - reality was that I didn't think that any of the originators would read it over the weekend anyway.  We had hoped to have a final draft ready on Monday (April 9), with plans to review that with Andy Zipper for his input and then two ""test runs"" with Ed Baughman and Frank Vickers on Tuesday.  With any suggested changes from those test runs, my plan was to circulate copies to you and John Lavorato on Tuesday as well so that you would be aware of the approach with the origination teams.  We scraped the idea of an offsite, and instead are setting up individual meetings with lead originators and their teams.  Unfortunately, I got food poisoning Monday night and was out of the office on Tuesday, so we are behind schedule by a day.  I am in the office today, but at about half speed, and we will try to make up for time lost yesterday.
+
+---
+
+[2001-04-11 20:45:00+00:00] sally.beck@enron.com:
+Back on the calendar this afternoon with Andy Zipper to get his comments on the presentation - should be able to get you and John a copy following that meeting.",2.0,"Why was the presentation draft not circulated on Friday, April 6, 2001, and what was the revised plan for reviewing it with Andy Zipper, Ed Baughman, and Frank Vickers?","I chose not to circulate it because I didn't think originators would read it over the weekend. The plan was to review the final draft with Andy Zipper on Monday, April 9, conduct test runs with Ed Baughman and Frank Vickers on Tuesday, and then circulate it to John Lavorato and the recipient."
+multi_mensaje,322.0,"Key Contacts - Out of Office - July 26-28, July 31 and August 1","[2000-07-25 18:03:00+00:00] sally.beck@enron.com:
+I will be out of the office from Wednesday, July 26 through Friday, July 28.  
+I am taking my older daughter on a preliminary look at colleges.  I will have 
+my cell phone with me -- the number is 713-417-1591.   My assistant, Patti 
+Thompson, will have hotel phone numbers where I can be reached as well.  
+
+The following persons will be key contacts for trading operations while I am 
+out:
+
+ Natural Gas Operations  Brent Price   x37647   (7/31 & 8/1:  Steve Jackson  
+x37070)
+ Power Operations   Stacey White  x31870   (7/31 & 8/1:  Kristin Albrecht  
+x34763)
+ Financial Products Operations Sheila Glover  x33210
+ Coal, Pulp & Paper, LNG  Scott Earnest  x31746
+ Weather     Todd Hall    x31957
+
+ DPR      Mike Moscoso  x35242
+ MPR      David Maxwell  x316983
+
+I will be working in ENA's and MG's Chicago offices on Monday and Tuesday, 
+July 31 and August 1.  Patti has contact numbers for me at both offices.   
+Key contacts in Houston are those listed above, with changes noted for Gas 
+and Power Operations on July 31 and August 1.  
+
+I will be back in the Houston office on Wednesday, August 2.
+
+---
+
+[2000-07-25 18:21:00+00:00] sally.beck@enron.com:
+FYI - I will be out of the office for the two meetings on Wednesday this 
+week.  I will be working in Chicago Monday and Tuesday next week.  I will be 
+back in the office on Wednesday of next week. 
+
+Todd tells me that a logo has been selected.  Can you e:mail that to me?  If 
+not available electronically, I will see it when I am back in the office next 
+Wednesday.",2.0,"What are the dates I will be out of the office for my daughter's college visits, and who is my designated assistant for contact information?","I will be out of the office from Wednesday, July 26 through Friday, July 28, 2000, and my assistant, Patti Thompson, will have my contact information."
+multi_mensaje,640.0,Re: Cross calibration for Operations people globally,"[2000-11-27 14:08:00+00:00] sally.beck@enron.com:
+I have attached a listing of planned PRC meetings for Operations that will be 
+held in Houston.  There will be a number of pre-review meetings that will be 
+held over the next two weeks in preparation for an Energy Operations PRC 
+meeting to be held on Friday, December 8th.  The pre-meetings are necessary 
+due to the sheer size of the groups.  (In addition to the meetings detailed 
+in this schedule, Brent's team in EGM is having pre-meetings as well.)  
+
+The December 8th meeting will include all operations personnel from ENA, EGM 
+and EIM.  We will review the results from the pre-review meetings for Senior 
+Specialists and below.  I have asked that the results from the pre-review 
+meetings mirror the ""preferred distribution"", which as you probably know 
+suggests that 15% of the population will not receive a bonus and should 
+therefore be in the bottom two categories.  Assuming that appropriate work 
+has been done at the pre-review meetings, this review on the 8th should not 
+be too lengthy.  We will take considerably more time as we review the 
+managers, who will have been pre-ranked as well.  This will give us a good 
+jumping off point for the cross calibration discussions.  We will then review 
+and rank the directors and senior directors.  We will also be discussing 
+suggested promotions during this meeting as well.  Finally, assuming that I 
+still have David Oxley and Wes Colwell captive and attentive, I will discuss 
+my suggested rankings for the three VP's who report to me.  (We will of 
+course pare down the list of attendees as we move up the ladder on levels 
+that we are reviewing -- initial make up of the December 8th PRC is me and my 
+direct reports within ENA, Brent and his direct reports within EGM and Brenda 
+Herod from EIM.)  I have also extended an invitation to Louise Kitchen to 
+attend the December 8th meeting.  I do not know yet if she will attend.  
+
+Do you have some suggestions for cross-calibrating on a global basis this 
+year?  I think that next year we can put some plans in place early in the 
+year to help facilitate this.  Would you like to attend the meeting here in 
+Houston on December 8th?  Is there a planned meeting in London that would 
+make sense for me to attend?  Let me know your thoughts.  
+
+   
+
+    -Sally
+
+---
+
+[2000-11-27 14:09:00+00:00] sally.beck@enron.com:
+Meant to copy you on this reply to Mike, but forgot to do so before my 
+initial send.  Here it is...",2.0,"When is the Energy Operations PRC meeting scheduled to take place in Houston, and what is the expected distribution of bonuses for the staff being reviewed?","The meeting is scheduled for Friday, December 8th, and the preferred distribution suggests that 15% of the population will not receive a bonus."
+multi_mensaje,2208.0,"FW: Welcome to UBS meeting tommorrow 10.15 am @ the Houstonian -
+ URGENT REQUIRES IMMEDIATE ACTION","[2002-01-22 23:37:18+00:00] neil.davies@enron.com:
+An important meeting  will be held tommorrow for all employees who
+
+1) have accepted offers 
+2) intend to accept offers ( to the best of their knowledge) but who have issues that need to be resolved
+
+All employees in these categories should attend
+
+Buses will be provided for those who do not have their own transport and will pick up from the south side of the north building - please assemble in the Java plaza area from 8.30am  to 9.30am ( last bus @ 9.30 am )
+
+The meeting will last until 1pm approximately and will be presented by senior managers from UBS on the firm and it's strategy.
+
+There will be breakfast available at the Hotel from 9am to 10am and there will be sandwiches afterwards.  
+
+If travelling independently please make sure you leave sufficient time to park (it will be very busy there ) and get to the Grand ballroom
+
+Employees need to bring their id's or drivers licence with them to gain access to the meeting
+
+I'm sorry for the short notice on this - please call out to anyone who should be attending who will not get this message in time 
+
+
+
+
+
+Neil Daves
+
+---
+
+[2002-01-23 14:39:45+00:00] sally.beck@enron.com:
+",2.0,"What are the logistics for the meeting regarding UBS offers for employees, including the pickup location and the time frame for the event?","The meeting is for employees who have accepted or intend to accept offers. Buses will pick up from the south side of the north building between 8:30 am and 9:30 am, and the meeting will last until approximately 1 pm."
+multi_mensaje,1301.0,RE: Enron Net Works' T&E Policy and Best Travel Practices,"[2001-05-04 13:01:20+00:00] 40enron@enron.com:
+Please review and abide by the following travel policy and best practices.
+
+Feel free to call either Tina Spiller or Peggy McCurley if you have any travel policy questions. 
+
+Thank you.
+
+
+http://home.enron.com:84/messaging/teupdated.doc
+
+http://home.enron.com:84/messaging/enwtravelbroch.pdf
+
+---
+
+[2001-05-07 18:24:57+00:00] sally.beck@enron.com:
+At the end of my 3:00 meeting with Philippe and Greg today I will get clarification about the international travel.  It is hard for me to believe that Philippe or Beth Perlman or Greg Piper will fly coach to London.  I will keep you posted.  -Sally",2.0,"What is my concern regarding the travel policy for Philippe, Beth Perlman, and Greg Piper regarding their upcoming trip to London?","I find it hard to believe that Philippe, Beth Perlman, or Greg Piper would be expected to fly coach to London."
+multi_mensaje,517.0,"Speaking Engagement - October 23, 2000","[2000-10-18 22:31:00+00:00] sally.beck@enron.com:
+Thanks in advance for agreeing to speak at the Global Operations Controller 
+Forum.  I know that we are catching you before a tee time on Monday, so I 
+especially appreciate your joining us to kick off the event that morning.  
+Dress for the forum is casual, so feel free to do the same.  There will be 
+approximately 30 Enron business controllers present at the meeting.  All have 
+responsibility for mid and back office operations for the following Enron 
+entities:  Enron North America, Enron Europe, Enron South America, Enron 
+Global Markets, Enron Industrial Markets, Enron Broadband Services and Enron 
+Energy Services.  Attendees will be here from Houston, Calgary, Tokyo, 
+Sydney, London and New York (metals business).   
+
+Attached for your reference is the agenda. There may be some slight changes 
+before the forum begins, but this will give you a good idea of the topics to 
+be covered and the other speakers who will address the group.  
+
+
+You are scheduled to address the group as follows:
+
+Date:  Monday, October 23, 2000
+Time:  8:00 am
+  (breakfast will be served at 7:30 and you are invited to join us)
+Place:  The Warwick Hotel
+  The Versailles Room - 12th Floor 
+  5701 Main Street
+  Houston,  TX  77005
+
+With a small group, your talk can be informal and you do not need to prepare 
+slides (unless you would like to do so).  Q&A afterwards would be great.  Key 
+speaking points that would enforce the value of this conference for this 
+group would be:
+
+recognition of a job well done in supporting explosive business growth in 
+2000 
+your support for global standards for operational controls for trading 
+activities
+your recognition of the value of operational professionals in the 
+organization to ensure integrity of mid and back office functions  
+your challenge to the group to strive for best in class processes and 
+controls as Enron's growth as a trading organization continues
+
+Let me know if you have any questions and thanks again for joining us.
+
+---
+
+[2000-10-18 22:41:00+00:00] sally.beck@enron.com:
+My details to Rick and Sharron...",2.0,"What is the date, time, and location for my scheduled address to the group at the Global Operations Controller Forum?","The address is scheduled for Monday, October 23, 2000, at 8:00 am at The Warwick Hotel, Versailles Room, 12th Floor, 5701 Main Street, Houston, TX."
+multi_mensaje,244.0,Re: LNG,"[2000-06-05 17:58:00+00:00] sally.beck@enron.com:
+Scott Earnest announced in the staff meeting today that in a meeting he had 
+earlier today with Jeff Shankman and Vince Kaminiski that Jeff announced that 
+he had gotten the nod from Mark Frevert to manage the LNG book of business.  
+(This sentence structure is bad, but you get the drift.)  That is probably 
+what Shankman has alluded to in terms of increased responsibility.  I will 
+assume that is in addition to gas, but I don't know that for sure.  
+
+Scott has been working on setting up the risk books for LNG, working closely 
+over the last several weeks with Vince Kaminski.  We need to talk about this 
+business and the best way to support it.  Have you had any conversations with 
+Jeff on this?
+
+---
+
+[2000-06-06 08:26:00+00:00] sally.beck@enron.com:
+I left a voice mail message for Dave Delainey this morning asking for 
+clarification around the LNG business.  As soon as I hear back from him I 
+will let you know, and then based on that info we can decide on best next 
+steps.",2.0,What did Scott Earnest announce regarding the management of the LNG book of business following his meeting with Jeff Shankman and Vince Kaminski?,Scott announced that Jeff Shankman received the nod from Mark Frevert to manage the LNG book of business.
+multi_mensaje,2082.0,RE: Consolidation,"[2002-01-09 17:32:38+00:00] tina.spiller@enron.com:
+As requested, attached is a list of ENW employees currently located in Enron Center South.
+
+ENW employees located in Enron Center North that need to relocate to Enron Center South are not included.
+
+Please let me know if you need anything further.
+
+Tina Spiller
+713.853.5746 Office
+713.859.0521 Cell
+
+---
+
+[2002-01-09 21:24:57+00:00] tina.spiller@enron.com:
+This file is revised.  The only change is the addition of Shiela Castro in Gas Settlements (at the bottom).
+
+TS",2.0,"Who was the most recent addition to the list of ENW employees located in Enron Center South as of January 9, 2002?",Shiela Castro in Gas Settlements.
+multi_mensaje,2023.0,FW: 2002 Budget for Enron Net Works,"[2001-12-31 21:37:25+00:00] sally.beck@enron.com:
+ENW submitted our preliminary revised budget two weeks ago.  In our meeting in the Board Room, we did acknowledge that the ENW budget is very dependent upon the business plans of the business units that we support.  Since our budget meeting was the first that you conducted, we agreed that the ENW revised 2002 budget would need to be reviewed again once the business plans and associated budgets for other Enron business units were completed.  Has that process been completed such that we can now re-evaluate the 2002 budget for ENW?  
+
+I will follow up with you or someone on your staff on January 2 so that we can complete this budget process.  
+
+I hope that you and your family enjoyed the holidays.  --Sally
+
+---
+
+[2002-01-01 23:55:18+00:00] jeffrey.mcmahon@enron.com:
+Yes...they have all been completed.  Pls get with someone in Causey's world to get the details.
+
+---
+
+[2002-01-02 18:43:04+00:00] sally.beck@enron.com:
+Rick:  Do you feel that the revised budgets that your team has received are ""baked enough"" so that it makes sense for us to relook at the ENW budget in light of revised plans for the various business units?  My understanding is that the business plans that Jim Fallon had asked the various wholesale business units to complete by December 21 have not yet been submitted to Jim.  Which would lead me to ask whether or not the revised 2002 budgets that you have are far enough along in the process for us to use in re-evaluating the ENW budget.  
+ 
+Let me know your thoughts on your degree of comfort with the revised budgets and who on your staff we could work with to get the necessary information to rework the ENW budget, if necessary.  Thanks.  --Sally
+
+---
+
+[2002-01-02 22:44:30+00:00] sally.beck@enron.com:
+Mike:  Do you have time to get together on Thursday to review the budget data that you have in hand?  Assumptions regarding number of employees within business units and the timing of the sale or shut-down of certain lines of business have a direct impact on the ENW revised budget for 2002.  --Sally
+
+---
+
+[2002-01-02 23:16:58+00:00] mike.deville@enron.com:
+Sounds good. The only thing I have scheduled now is a 10:00 - 10:30 on Thursday. Let me know when you want to meet.
+mike d
+
+---
+
+[2002-01-02 23:55:26+00:00] sally.beck@enron.com:
+I will include Kerry in this meeting with Mike.  Do you want to attend as well?  Let  me know, and we will schedule it so that it works for you, too.  --Sally",6.0,What is my specific commitment to Rick Causey regarding the global exception report for fundamental operating standards?,My commitment is to have that global report in production by the end of the year.
+multi_mensaje,1625.0,Transaction Data for Select Counterparties,"[2001-10-23 01:21:56+00:00] leslie.reeves@enron.com:
+Sally - if you need additional data let me know.  As Torrey notes it looks as though the recent media reports have had no impact on the financial trading activity.  Thanks, Leslie
+
+---
+
+[2001-10-23 12:55:03+00:00] sally.beck@enron.com:
+Information forwarded below indicates that through October 22, we have not seen a drop off in deal counts executed through EnronOnline for derivatives trading.  Please let me know if you need additional information.  --Sally Beck (x35926)",2.0,"Based on the data through October 22, 2001, what impact have recent media reports had on EnronOnline derivatives trading deal counts?",There has been no drop off in deal counts executed through EnronOnline.
+multi_mensaje,125.0,Out of the Office,"[2000-03-14 16:25:00+00:00] sally.beck@enron.com:
+I will be out of the office Wednesday through Friday this week (March 
+15-17).   I will be with my children while they are on Spring Break.  I can 
+be reached those three day either at home (281-370-8568) or on my cell phone 
+(713-417-1591).   The following persons will serve as key operations contacts 
+in the office while I am out:
+Key Operations Contacts March 15-17
+
+  Brent Price   Business Controller, Gas  x37647
+
+  Kristin Albrecht   Business Controller, Power  x34763
+
+Also, I will be in the London office during the week of March 20th.  I am 
+working with Fernley Dyson and John Sherriff to structure training and 
+orientation for a new head of trading operations that has been hired in 
+London.  I am also working to provide transition resources to London for 
+operational controls unttil the new guy is on board.  My work on this should 
+be completed by the end of next week.  I will return to Houston on Friday, 
+March 24.  My assistant, Patti Thompson (x39106),  will have a copy of my 
+schedule while I am in London as well as an international mobile phone number 
+where I can be reached. Please don't hesitate to call.  I will be responding 
+to voice mail messages throughout the week.   The following persons will 
+serve as key operations contacts in the Houston office while I am working 
+from London:
+
+Key Operations Contacts  March 20-24
+
+  Brenda Herod   Business Controller, Gas  x35778
+
+  Kristin Albrecht   Business Controller, Power  x34763
+
+Kristin Albrecht will attend the Monday, March 20th staff meeting at 9:30 in 
+my absence.
+
+---
+
+[2000-03-14 16:27:00+00:00] sally.beck@enron.com:
+The e:mail system never recognizes Rick Causey, so you were dropped from the 
+first distribution.  I have to remember to type your full first name!",2.0,"Who are the designated key operations contacts in the Houston office while I am working from the London office during the week of March 20, 2000?","Brenda Herod (Business Controller, Gas) and Kristin Albrecht (Business Controller, Power)."
+multi_mensaje,1172.0,Re: Weekly Focus on Commercialization of Services,"[2001-04-06 15:45:00+00:00] sally.beck@enron.com:
+Expect Patti to contact you about setting aside 15 minutes each Monday to 
+meet in my office as a team to quickly prioritize tasks for the week 
+regarding the commercialization of our services.  While we will certainly 
+draw upon the knowledge of  others within Operations, we will consider this 
+to be the core resource team.  We want to continue to build momentum for this 
+effort.  Knowing that we are all stretched in managing the day-to-day 
+business, this quick focus each week on the key tasks will keep all of us 
+informed and in alignment.  Thanks!
+
+---
+
+[2001-04-06 15:46:00+00:00] sally.beck@enron.com:
+Would you like to be included?  We will try to start this next week.  I will 
+ask Patti to get with you on the details.  --Sally
+
+---
+
+[2001-04-06 17:48:00+00:00] sally.beck@enron.com:
+We'll see you the next time.  Thanks.",3.0,What is the purpose of the 15-minute weekly team meetings that Patti is organizing for the Operations core resource team?,The purpose of the meetings is to quickly prioritize tasks for the week regarding the commercialization of our services and to keep the team informed and in alignment.
+multi_mensaje,1931.0,RE: SAP Outages,"[2001-11-27 00:41:34+00:00] allan.sommer@enron.com:
+Normally, these scheduled SAP outages are planned with the major user bases via a communication released 3 weeks in advance and subsequently approved.  The notice you received today was a reminder notice.  This outage is due to our quarterly production build schedule for SAP upgrades to the HR environment (""hotpacks"").  
+
+We rescheduled this weekends outage earlier today after consultation with HR and the tentative and future date will be mid-January.  At this point no additional outages are planned for the remainder of the year.
+
+The revised (cancelled) notification will go out tomorrow.
+
+Allan Sommer
+Enron ISC
+713-345-5291 work
+713-503-5089 cell
+877-711-4760 or 8777114760@skytel.com
+
+
+
+
+SAP System Outage Notification
+-------------------------------------------------------------
+SYSTEM OUTAGE NOTIFICATION 
+-------------------------------------------------------------
+FOR: SPR5DB00 - BBP 2.0 Production
+Date & Time of Outage: 
+Outage Commences: November 30, 2001 at 06:00 PM CST
+Outage Ends: December 2, 2001 at 05:00 PM CST
+Outage Abstract: System will be unavailable for Production Build Activities
+Outage Description: System will be unavailable for Production Build Activities
+Outage Implication: No access during outage
+Contact: 713-345-7282
+Contact:	Contact Information:	
+Basis On-Call	713-345-7282	
+ISC Customer Care	713-345-4727	
+-------------------------------------------------------------
+SYSTEM OUTAGE NOTIFICATION 
+-------------------------------------------------------------
+FOR: PR2 - HR Production
+Date & Time of Outage: 
+Outage Commences: November 30, 2001 at 06:00 PM CST
+Outage Ends: December 2, 2001 at 05:00 PM CST
+Outage Abstract: System will be unavailable for Production Build Activities
+Outage Description: System will be unavailable for Production Build Activities
+Outage Implication: No access during outage
+Contact: 713-345-7282
+Contact:	Contact Information:	
+Basis On-Call	713-345-7282	
+ISC Customer Care	713-345-4727	
+-------------------------------------------------------------
+SYSTEM OUTAGE NOTIFICATION 
+-------------------------------------------------------------
+FOR: PR1 - Apollo Production
+Date & Time of Outage: 
+Outage Commences: November 30, 2001 at 06:00 PM CST
+Outage Ends: December 2, 2001 at 05:00 PM CST
+Outage Abstract: System will be unavailable for Production Build Activities
+Outage Description: System will be unavailable for Production Build Activities
+Outage Implication: No access during outage
+Contact: 713-345-7282
+Contact:	Contact Information:	
+Basis On-Call	713-345-7282	
+ISC Customer Care	713-345-4727
+
+---
+
+[2001-11-27 16:20:44+00:00] sally.beck@enron.com:
+Yes, I think that it makes sense to keep the system available over the weekend for the foreseeable future.  I had operations teams accessing critical data, available only in SAP, on Friday evening and Sunday this past weekend.  It is very likely that our need to do so will continue, unlimited to weekdays.  Thanks.  --Sally",2.0,"What is the status of the SAP system outage originally scheduled for the weekend of November 30, 2001?","The outage was rescheduled after consultation with HR, and the tentative future date for the outage is mid-January."
+multi_mensaje,353.0,Meeting with Mark Frevert - Should We Move It Up?,"[2000-08-10 16:17:00+00:00] sally.beck@enron.com:
+Not surprisingly, the organization is moving faster than Rick Buy's vacation 
+schedule.  Our meeting is set with Mark Frevert, Rick Buy, you and me on 
+August 28 -- two weeks from next Monday, dictated by Rick Buy's schedule.  I 
+am concerned that waiting that long to get with Mark to discuss the potential 
+formalization of a global risk management operations role will put us behind 
+the curve.  
+
+Mike McConnell and Jeff Shankman plan to release a memo tomorrow on the 
+structure of the Global Markets team, which will include a discussion on 
+Brent's role and reporting responsibilities.  Brent and Scott Earnest are 
+flying to London next Monday evening to spend the remainder of the week in 
+that office to iron out details on supporting the global markets businesses.  
+Many of their discussions will be with Mike Jordan and some logical points 
+will be raised around co-ordination between EEL and EGM.  In a conversation 
+with Gary Hickerson on Tuesday regarding his business, he stated that he 
+wanted to be sure that I had responsibility over London operations, as he 
+will have support personnel in London and wants to be certain that efforts 
+are coordinated.  Separately, Jeff Shankman said that he was certainly 
+comfortable with Brent in the Operations/CAO role but that he wanted Brent to 
+report to me to ensure consistency, access to support resources and logic 
+around systems issues that cut across the ocean.  I told him that you and I 
+had had discussions about a more formalized role to encompass responsibility 
+for London and that we had a meeting planned with Mark Frevert on August 28.  
+That's a lifetime to a trader, and Jeff said he hoped that we could nail that 
+down before the end of the month.  
+
+What are your thoughts about an earlier meeting with Mark Frevert?  The 
+summary of doorstep findings can be finalized early next week.  I have 
+checked Mark's travel schedule.  He will be in the Houston office next week, 
+with Thursday, August 17 as the best day to potentially schedule a meeting.  
+
+I am not trying to rush this process, yet I know that by the end of August 
+much will have been decided around coordinating between ENA, EGM and EEL 
+operations.  I would like to be in a position to help guide those decisions, 
+rather than arrive at the party late.
+
+---
+
+[2000-08-11 14:15:00+00:00] sally.beck@enron.com:
+FYI:  Rick agreed with the attached note that I sent him.  By voice mail, I 
+suggested Ted Murphy as a substitute for Rick Buy for the meeting.  We are 
+set for next Thursday, August 17 at 11:45 in Rick Causey's office over 
+lunch.  I am meeting with Ted this afternoon to fill him in on the purpose of 
+the meeting and to be certain that I have his support.  Rick Causey suggested 
+citing some of the items in my memo to him when we get with Frevert.  Any 
+words of wisdom or suggestions for the meeting?",2.0,When is the meeting scheduled with Mark Frevert to discuss the potential formalization of a global risk management operations role?,"The meeting is scheduled for Thursday, August 17, at 11:45 in Rick Causey's office."
+multi_mensaje,1980.0,FW: Termination Process,"[2001-12-20 17:06:13+00:00] christina.valdez@enron.com:
+
+
+---
+
+[2001-12-20 17:16:21+00:00] sally.beck@enron.com:
+Elizabeth/Jim:
+ 
+This is a ""Draft"" of process that I mentioned in our meeting in Jim's office on Monday.
+ 
+ 
+ 
+-----Sally",2.0,"What document did I share with Elizabeth and Jim on December 20, 2001, following our meeting in Jim's office?",I shared a draft of the process that we had discussed during our meeting on Monday.
+sin_respuesta,,,,,What is the capital of Australia?,No information available in the dataset
+sin_respuesta,,,,,How many players are on a soccer team on the field at once?,No information available in the dataset
+sin_respuesta,,,,,What ingredients are needed to make a classic margherita pizza?,No information available in the dataset
+sin_respuesta,,,,,Who won the FIFA World Cup in 2026?,No information available in the dataset
+sin_respuesta,,,,,What is the boiling point of water in Celsius?,No information available in the dataset
+sin_respuesta,,,,,Which planet is closest to the Sun?,No information available in the dataset
+sin_respuesta,,,,,What year did the Titanic sink?,No information available in the dataset
+sin_respuesta,,,,,How do you make a traditional French omelette?,No information available in the dataset
+sin_respuesta,,,,,What is the tallest mountain in the world?,No information available in the dataset
+sin_respuesta,,,,,Which TV show features a character named Walter White?,No information available in the dataset
+sin_respuesta,,,,,What is the recipe for a classic Caesar salad dressing?,No information available in the dataset
+sin_respuesta,,,,,How many time zones does Russia span?,No information available in the dataset
+sin_respuesta,,,,,What team won the Super Bowl in 2024?,No information available in the dataset
+sin_respuesta,,,,,What is the chemical symbol for gold?,No information available in the dataset
+sin_respuesta,,,,,Which country hosted the 2016 Summer Olympics?,No information available in the dataset
+sin_respuesta,,,,,How long does it take to bake a standard loaf of sourdough bread?,No information available in the dataset
+sin_respuesta,,,,,What is the currency used in Japan?,No information available in the dataset
+sin_respuesta,,,,,Who directed the movie Inception?,No information available in the dataset
+sin_respuesta,,,,,What is the average lifespan of a golden retriever?,No information available in the dataset
+sin_respuesta,,,,,Which ocean is the largest by surface area?,No information available in the dataset
